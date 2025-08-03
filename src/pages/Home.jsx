@@ -1,7 +1,8 @@
 import { useNavigate } from 'react-router-dom';
+
 const sets = [
-  { id: 'lsu_passing', title: 'LSU Passing' },
-  { id: 'set2', title: 'Set 2' }
+  { id: 'lsu_passing', title: 'LSU Quarterbacks' },
+  { id: 'set2', title: 'Backup Legends' }
 ];
 
 export default function Home() {
@@ -15,7 +16,9 @@ export default function Home() {
           <div
             key={set.id}
             className="card"
-            onClick={() => navigate(`/board/${set.id}`)}
+            onClick={() =>
+              navigate(`/board/${set.id}`, { state: { title: set.title } })
+            }
           >
             {set.title}
           </div>
