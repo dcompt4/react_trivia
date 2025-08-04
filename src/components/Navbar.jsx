@@ -1,5 +1,6 @@
 import { useNavigate } from 'react-router-dom';
 import { useState } from 'react';
+import { Home } from 'lucide-react'; // <-- import Home icon
 
 export default function Navbar({ title }) {
   const navigate = useNavigate();
@@ -13,11 +14,11 @@ export default function Navbar({ title }) {
 
   return (
     <div className="navbar" style={{ display: 'flex', alignItems: 'center', padding: '10px' }}>
-      <img
-        src="/logo.png"
-        alt="Logo"
+      <Home
         onClick={() => navigate('/')}
-        style={{ cursor: 'pointer', height: '40px' }}
+        size={32}
+        style={{ cursor: 'pointer' }}
+        strokeWidth={2.5}
       />
       <h2 style={{ marginLeft: '10px', flexGrow: 1 }}>{title}</h2>
       <div className="colors" style={{ display: 'flex', gap: '10px' }}>

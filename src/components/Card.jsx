@@ -38,7 +38,7 @@ export default function Card({ data, selectedColor }) {
           visibility: revealed && data.image ? 'visible' : 'hidden',
           opacity: revealed && data.image ? 1 : 0,
           transition: 'opacity 0.3s ease',
-          minHeight: '60px' // adjust based on expected image height
+          minHeight: '0px' // adjust based on expected image height
         }}
       >
         {data.image && <img src={`/images/${data.image}`} alt="" style={{ maxHeight: '60px' }} />}

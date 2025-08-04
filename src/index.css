@@ -36,10 +36,15 @@ code {
   align-items: center;
   cursor: pointer;
   transition: background 0.3s;
+  font-size: 1.5em;
 }
 
 .card {
-  width: 400px;
+  width: 250px;
+}
+
+.games {
+  width: 500px;
 }
 
 .navbar {
@@ -56,4 +61,8 @@ code {
   margin-right: 8px;
   border: 1px solid #000;
   cursor: pointer;
+}
+
+.hint {
+  font-weight: bold;
 }
