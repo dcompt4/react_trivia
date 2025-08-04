@@ -1,17 +1,82 @@
 [
-    {
-      "hint": "Heisman winner from LSU",
-      "answer": "Joe Burrow",
-      "image": "burrow.jpg"
-    },
-    {
-      "hint": "2024 backup QB",
-      "answer": "Rickie Collins"
-    },
-    {
-      "hint": "Future NFL prospect",
-      "answer": "Garrett Nussmeier",
-      "image": "nussmeier.jpg"
-    }
-  ]
-  
+  {
+    "hint": "1",
+    "answer": "Garrett Nussmeier"
+  },
+  {
+    "hint": "2",
+    "answer": "Rickie Collins"
+  },
+  {
+    "hint": "3",
+    "answer": "AJ Swann"
+  },
+  {
+    "hint": "4",
+    "answer": "Jayden Daniels"
+  },
+  {
+    "hint": "5",
+    "answer": "Malik Nabers"
+  },
+  {
+    "hint": "6",
+    "answer": "Walker Howard"
+  },
+  {
+    "hint": "7",
+    "answer": "Max Johnson"
+  },
+  {
+    "hint": "8",
+    "answer": "Jontre Kirklin"
+  },
+  {
+    "hint": "9",
+    "answer": "Myles Brennan"
+  },
+  {
+    "hint": "10",
+    "answer": "TJ Finley"
+  },
+  {
+    "hint": "11",
+    "answer": "Joe Burrow"
+  },
+  {
+    "hint": "12",
+    "answer": "Danny Etling"
+  },
+  {
+    "hint": "13",
+    "answer": "Brandon Harris"
+  },
+  {
+    "hint": "14",
+    "answer": "Anthony Jennings"
+  },
+  {
+    "hint": "15",
+    "answer": "Zach Mettenberger"
+  },
+  {
+    "hint": "16",
+    "answer": "Jarrett Lee"
+  },
+  {
+    "hint": "17",
+    "answer": "Jordan Jefferson"
+  },
+  {
+    "hint": "18",
+    "answer": "Andrew Hatch"
+  },
+  {
+    "hint": "19",
+    "answer": "Matt Flynn"
+  },
+  {
+    "hint": "20",
+    "answer": "Ryan Perrilloux"
+  }
+]

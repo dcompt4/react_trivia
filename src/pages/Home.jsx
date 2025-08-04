@@ -1,7 +1,7 @@
 import { useNavigate } from 'react-router-dom';
 
 const sets = [
-  { id: 'lsu_passing', title: 'LSU Quarterbacks' },
+  { id: 'lsu_passing', title: 'LSU Recent Passing (Min. 2 Completions)' },
   { id: 'set2', title: 'Backup Legends' }
 ];
 
