@@ -1,8 +1,9 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 
 export default function Card({ data, selectedColor }) {
   const [revealed, setRevealed] = useState(false);
   const [color, setColor] = useState(null);
+  const [showImage, setShowImage] = useState(false); // NEW
 
   const handleClick = () => {
     if (!revealed && selectedColor) {
@@ -12,6 +13,12 @@ export default function Card({ data, selectedColor }) {
       setColor(selectedColor);
     }
   };
+
+  useEffect(() => {
+    const toggleHandler = (e) => setShowImage(e.detail);
+    window.addEventListener('toggle-images', toggleHandler);
+    return () => window.removeEventListener('toggle-images', toggleHandler);
+  }, []);
 
   return (
     <div
@@ -27,7 +34,7 @@ export default function Card({ data, selectedColor }) {
           visibility: revealed ? 'visible' : 'hidden',
           opacity: revealed ? 1 : 0,
           transition: 'opacity 0.3s ease',
-          minHeight: '1.2em', // reserve vertical space
+          minHeight: '1.2em',
         }}
       >
         {data.answer}
@@ -35,13 +42,18 @@ export default function Card({ data, selectedColor }) {
 
       <div
         style={{
-          visibility: revealed && data.image ? 'visible' : 'hidden',
-          opacity: revealed && data.image ? 1 : 0,
+          opacity: showImage ? 1 : 0,
           transition: 'opacity 0.3s ease',
-          minHeight: '0px' // adjust based on expected image height
+          minHeight: '60px', // reserve space so cards stay consistent
         }}
       >
-        {data.image && <img src={`/images/${data.image}`} alt="" style={{ maxHeight: '60px' }} />}
+        {data.image && (
+          <img
+            src={`/images/${data.image}`}
+            alt=""
+            style={{ maxHeight: '60px', maxWidth: '120px' }}
+          />
+        )}
       </div>
     </div>
   );
