@@ -1,0 +1,25 @@
+[
+  { "hint": "2024", "answer": "Lamar Jackson", "image": "nfl_ravens.png" },
+  { "hint": "2023", "answer": "CeeDee Lamb", "image": "nfl_cowboys.png" },
+  { "hint": "2022", "answer": "Patrick Mahomes", "image": "nfl_chiefs.png" },
+  { "hint": "2021", "answer": "Cooper Kupp", "image": "nfl_rams.png" },
+  { "hint": "2020", "answer": "Josh Allen", "image": "nfl_bills.png" },
+  { "hint": "2019", "answer": "Christian McCaffrey", "image": "nfl_panthers.png" },
+  { "hint": "2018", "answer": "Patrick Mahomes", "image": "nfl_chiefs.png" },
+  { "hint": "2017", "answer": "Todd Gurley II", "image": "nfl_rams.png" },
+  { "hint": "2016", "answer": "David Johnson", "image": "nfl_cardinals.png" },
+  { "hint": "2015", "answer": "Cam Newton", "image": "nfl_panthers.png" },
+  { "hint": "2014", "answer": "Antonio Brown", "image": "nfl_steelers.png" },
+
+  { "hint": "2013", "answer": "Peyton Manning", "image": "nfl_broncos.png" },
+  { "hint": "2012", "answer": "Adrian Peterson", "image": "nfl_vikings.png" },
+  { "hint": "2011", "answer": "Aaron Rodgers", "image": "nfl_packers.png" },
+  { "hint": "2010", "answer": "Arian Foster", "image": "nfl_texans.png" },
+  { "hint": "2009", "answer": "Chris Johnson", "image": "nfl_titans.png" },
+  { "hint": "2008", "answer": "Andre Johnson", "image": "nfl_texans.png" },
+  { "hint": "2007", "answer": "Tom Brady", "image": "nfl_patriots.png" },
+  { "hint": "2006", "answer": "LaDainian Tomlinson", "image": "nfl_chargers.png" },
+  { "hint": "2005", "answer": "Shaun Alexander", "image": "nfl_seahawks.png" },
+  { "hint": "2004", "answer": "Daunte Culpepper", "image": "nfl_vikings.png" },
+  { "hint": "2003", "answer": "Priest Holmes", "image": "nfl_chiefs.png" }
+]

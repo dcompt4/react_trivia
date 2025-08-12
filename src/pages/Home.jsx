@@ -7,8 +7,11 @@ const sets = [
   { id: 'nfl_1oadraftpicks', title: 'NFL 1OA Draft Picks' },
   { id: 'nfl_superbowlmvps', title: 'NFL Superbowl MVPs' },
   { id: 'nfl_touchdownleadersbyyear', title: 'NFL Touchdown Leaders By Year' },
-  { id: 'nfl_touchdownleaderscareer', title: 'NFL Career Touchdown Leaders' },
   { id: 'nfl_touchdownleadersactivecareer', title: 'NFL Active Career Touchdown Leaders' },
+  { id: 'nfl_fantasyleaderyear', title: 'NFL Fantasy Leader' },
+
+  { id: 'nfl_touchdownleaderscareer', title: 'NFL Career Touchdown Leaders' },
+  { id: 'nfl_mostinterceptionsseason', title: 'NFL Most Interceptions in a Season (>2005)' },
 
 ];
 
