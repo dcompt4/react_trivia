@@ -1,0 +1,23 @@
+[
+  { "hint": "2011", "answer": "LeSean McCoy", "image": "nfl_eagles.png" },
+  { "hint": "2012", "answer": "Arian Foster", "image": "nfl_texans.png" },
+  { "hint": "2013", "answer": "Jamaal Charles", "image": "nfl_chiefs.png" },
+  { "hint": "2014", "answer": "Marshawn Lynch", "image": "nfl_seahawks.png" },
+  { "hint": "2015", "answer": "Doug Baldwin", "image": "nfl_seahawks.png" },
+  { "hint": "2015", "answer": "Devonta Freeman", "image": "nfl_falcons.png" },
+  { "hint": "2015", "answer": "Brandon Marshall", "image": "nfl_jets.png" },
+  { "hint": "2015", "answer": "Allen Robinson", "image": "nfl_jaguars.png" },
+  { "hint": "2016", "answer": "David Johnson", "image": "nfl_cardinals.png" },
+  { "hint": "2017", "answer": "Todd Gurley", "image": "nfl_rams.png" },
+
+  { "hint": "2018", "answer": "Todd Gurley", "image": "nfl_rams.png" },
+  { "hint": "2019", "answer": "Aaron Jones", "image": "nfl_packers.png" },
+  { "hint": "2019", "answer": "Christian McCaffrey", "image": "nfl_panthers.png" },
+  { "hint": "2020", "answer": "Alvin Kamara", "image": "nfl_saints.png" },
+  { "hint": "2021", "answer": "Austin Ekeler", "image": "nfl_chargers.png" },
+  { "hint": "2021", "answer": "Jonathan Taylor", "image": "nfl_colts.png" },
+  { "hint": "2022", "answer": "Austin Ekeler", "image": "nfl_chargers.png" },
+  { "hint": "2023", "answer": "Christian McCaffrey", "image": "nfl_panthers.png" },
+  { "hint": "2023", "answer": "Raheem Mostert", "image": "nfl_dolphins.png" },
+  { "hint": "2024", "answer": "Jahmyr Gibbs", "image": "nfl_lions.png" }
+]

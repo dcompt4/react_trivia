@@ -1,0 +1,24 @@
+[
+  { "hint": "1", "answer": "Derrick Henry", "image": "nfl_ravens.png" },
+  { "hint": "2", "answer": "Mike Evans", "image": "nfl_buccaneers.png" },
+  { "hint": "3", "answer": "Davante Adams", "image": "nfl_rams.png" },
+  { "hint": "4", "answer": "Tyreek Hill", "image": "nfl_dolphins.png" },
+  { "hint": "5", "answer": "Jimmy Graham", "image": "nfl_saints.png" },
+  { "hint": "6", "answer": "Ezekiel Elliott", "image": "nfl_cowboys.png" },
+  { "hint": "7", "answer": "Alvin Kamara", "image": "nfl_saints.png" },
+  { "hint": "8", "answer": "DeAndre Hopkins", "image": "nfl_chiefs.png" },
+  { "hint": "9", "answer": "Christian McCaffrey", "image": "nfl_49ers.png" },
+  { "hint": "10", "answer": "Travis Kelce", "image": "nfl_chiefs.png" },
+
+  { "hint": "11", "answer": "Joe Mixon", "image": "nfl_texans.png" },
+  { "hint": "12", "answer": "Austin Ekeler", "image": "nfl_commanders.png" },
+  { "hint": "13", "answer": "Stefon Diggs", "image": "nfl_patriots.png" },
+  { "hint": "14", "answer": "James Conner", "image": "nfl_cardinals.png" },
+  { "hint": "14", "answer": "Aaron Jones", "image": "nfl_vikings.png" },
+  { "hint": "14", "answer": "Melvin Gordon", "image": "nfl_ravens.png" },
+  { "hint": "17", "answer": "Josh Allen", "image": "nfl_bills.png" },
+  { "hint": "17", "answer": "Keenan Allen", "image": "nfl_chargers.png" },
+  { "hint": "17", "answer": "Julio Jones", "image": "nfl_eagles.png" },
+  { "hint": "20", "answer": "Tyler Lockett", "image": "nfl_seahawks.png" },
+  { "hint": "20", "answer": "Adam Thielen", "image": "nfl_panthers.png" }
+]
