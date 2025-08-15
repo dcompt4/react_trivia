@@ -1,0 +1,22 @@
+[
+  { "hint": "2013", "answer": "Peyton Manning", "image": "nfl_broncos.png" },
+  { "hint": "2011", "answer": "Drew Brees", "image": "nfl_saints.png" },
+  { "hint": "2021", "answer": "Tom Brady", "image": "nfl_buccaneers.png" },
+  { "hint": "2022", "answer": "Patrick Mahomes", "image": "nfl_chiefs.png" },
+  { "hint": "2018", "answer": "Ben Roethlisberger", "image": "nfl_steelers.png" },
+  { "hint": "2019", "answer": "Jameis Winston", "image": "nfl_buccaneers.png" },
+  { "hint": "1984", "answer": "Dan Marino", "image": "nfl_dolphins.png" },
+  { "hint": "2011", "answer": "Matthew Stafford", "image": "nfl_lions.png" },
+  { "hint": "2021", "answer": "Justin Herbert", "image": "nfl_chargers.png" },
+  { "hint": "2016", "answer": "Matt Ryan", "image": "nfl_falcons.png" },
+  { "hint": "2011", "answer": "Eli Manning", "image": "nfl_giants.png" },
+  { "hint": "2024", "answer": "Joe Burrow", "image": "nfl_bengals.png" },
+  { "hint": "2016", "answer": "Kirk Cousins", "image": "nfl_commanders.png" },
+  { "hint": "2012", "answer": "Tony Romo", "image": "nfl_cowboys.png" },
+  { "hint": "2019", "answer": "Dak Prescott", "image": "nfl_cowboys.png" },
+  { "hint": "2020", "answer": "Deshaun Watson", "image": "nfl_texans.png" },
+  { "hint": "2021", "answer": "Derek Carr", "image": "nfl_raiders.png" },
+  { "hint": "1981", "answer": "Dan Fouts", "image": "nfl_chargers.png" },
+  { "hint": "2015", "answer": "Philip Rivers", "image": "nfl_chargers.png" },
+  { "hint": "2009", "answer": "Matt Schaub", "image": "nfl_texans.png" }
+]

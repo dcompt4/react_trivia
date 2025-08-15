@@ -1,0 +1,22 @@
+[
+  { "hint": "2019", "answer": "Michael Thomas", "image": "nfl_saints.png" },
+  { "hint": "2021", "answer": "Cooper Kupp", "image": "nfl_rams.png" },
+  { "hint": "2002", "answer": "Marvin Harrison", "image": "nfl_colts.png" },
+  { "hint": "2015", "answer": "Antonio Brown", "image": "nfl_steelers.png" },
+  { "hint": "2015", "answer": "Julio Jones", "image": "nfl_falcons.png" },
+  { "hint": "2023", "answer": "CeeDee Lamb", "image": "nfl_cowboys.png" },
+  { "hint": "2022", "answer": "Justin Jefferson", "image": "nfl_vikings.png" },
+  { "hint": "2024", "answer": "Ja'Marr Chase", "image": "nfl_bengals.png" },
+  { "hint": "2020", "answer": "Stefon Diggs", "image": "nfl_bills.png" },
+  { "hint": "2021", "answer": "Davante Adams", "image": "nfl_packers.png" },
+  { "hint": "1995", "answer": "Herman Moore", "image": "nfl_lions.png" },
+  { "hint": "2009", "answer": "Wes Welker", "image": "nfl_patriots.png" },
+  { "hint": "2012", "answer": "Calvin Johnson", "image": "nfl_lions.png" },
+  { "hint": "1995", "answer": "Jerry Rice", "image": "nfl_49ers.png" },
+  { "hint": "1995", "answer": "Isaac Bruce", "image": "nfl_rams.png" },
+  { "hint": "2018", "answer": "Zach Ertz", "image": "nfl_eagles.png" },
+  { "hint": "2019", "answer": "Christian McCaffrey", "image": "nfl_panthers.png" },
+  { "hint": "1999", "answer": "Jimmy Smith", "image": "nfl_jaguars.png" },
+  { "hint": "2020", "answer": "DeAndre Hopkins", "image": "nfl_cardinals.png" },
+  { "hint": "2008", "answer": "Andre Johnson", "image": "nfl_texans.png" }
+]

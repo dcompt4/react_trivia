@@ -1,0 +1,22 @@
+[
+  { "hint": "2024", "answer": "Bobby Witt Jr.", "image": "mlb_royals.png" },
+  { "hint": "2024", "answer": "Luis Arráez", "image": "mlb_marlins.png" },
+  { "hint": "2023", "answer": "Ronald Acuña Jr.", "image": "mlb_braves.png" },
+  { "hint": "2023", "answer": "Freddie Freeman", "image": "mlb_dodgers.png" },
+  { "hint": "2020", "answer": "Whit Merrifield", "image": "mlb_royals.png" },
+  { "hint": "2019", "answer": "Rafael Devers", "image": "mlb_redsox.png" },
+  { "hint": "2014", "answer": "José Altuve", "image": "mlb_astros.png" },
+  { "hint": "2007", "answer": "Ichiro Suzuki", "image": "mlb_mariners.png" },
+  { "hint": "2007", "answer": "Derek Jeter", "image": "mlb_yankees.png" },
+  { "hint": "2006", "answer": "Michael Young", "image": "mlb_rangers.png" },
+  { "hint": "2006", "answer": "Miguel Tejada", "image": "mlb_athletics.png" },
+  { "hint": "2004", "answer": "Adrian Beltre", "image": "mlb_dodgers.png" },
+  { "hint": "2003", "answer": "Albert Pujols", "image": "mlb_cardinals.png" },
+  { "hint": "2003", "answer": "Todd Helton", "image": "mlb_rockies.png" },
+  { "hint": "2002", "answer": "Vladimir Guerrero", "image": "mlb_expos.png" },
+  { "hint": "2001", "answer": "Alex Rodriguez", "image": "mlb_rangers.png" },
+  { "hint": "2000", "answer": "Darin Erstad", "image": "mlb_angels.png" },
+  { "hint": "1999", "answer": "Juan Pierre", "image": "mlb_marlins.png" },
+  { "hint": "1998", "answer": "Tony Gwynn", "image": "mlb_padres.png" },
+  { "hint": "1996", "answer": "Ken Griffey Jr.", "image": "mlb_mariners.png" }
+]

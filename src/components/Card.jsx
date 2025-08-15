@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 export default function Card({ data, selectedColor }) {
   const [revealed, setRevealed] = useState(false);
   const [color, setColor] = useState(null);
-  const [showImage, setShowImage] = useState(false); // NEW
+  const [showImage, setShowImage] = useState(false);
 
   const handleClick = () => {
     if (!revealed && selectedColor) {
@@ -40,21 +40,21 @@ export default function Card({ data, selectedColor }) {
         {data.answer}
       </div>
 
-      <div
-        style={{
-          opacity: showImage ? 1 : 0,
-          transition: 'opacity 0.3s ease',
-          minHeight: '60px', // reserve space so cards stay consistent
-        }}
-      >
-        {data.image && (
+      {data.image && (
+        <div
+          style={{
+            opacity: showImage ? 1 : 0,
+            transition: 'opacity 0.3s ease',
+            minHeight: '60px'
+          }}
+        >
           <img
             src={`/images/${data.image}`}
             alt=""
             style={{ maxHeight: '60px', maxWidth: '120px' }}
           />
-        )}
-      </div>
+        </div>
+      )}
     </div>
   );
 }

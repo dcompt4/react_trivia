@@ -1,0 +1,22 @@
+[
+  { "hint": "WR", "answer": "Jerry Rice", "image": "nfl_49ers.png" },
+  { "hint": "RB", "answer": "Emmitt Smith", "image": "nfl_cowboys.png" },
+  { "hint": "RB", "answer": "LaDainian Tomlinson", "image": "nfl_chargers.png" },
+  { "hint": "WR", "answer": "Randy Moss", "image": "nfl_vikings.png" },
+  { "hint": "WR", "answer": "Terrell Owens", "image": "nfl_49ers.png" },
+  { "hint": "RB", "answer": "Marcus Allen", "image": "nfl_raiders.png" },
+  { "hint": "RB", "answer": "Marshall Faulk", "image": "nfl_rams.png" },
+  { "hint": "WR", "answer": "Cris Carter", "image": "nfl_vikings.png" },
+  { "hint": "WR", "answer": "Marvin Harrison", "image": "nfl_colts.png" },
+  { "hint": "RB", "answer": "Jim Brown", "image": "nfl_browns.png" },
+  { "hint": "RB", "answer": "Adrian Peterson", "image": "nfl_vikings.png" },
+  { "hint": "RB", "answer": "Walter Payton", "image": "nfl_bears.png" },
+  { "hint": "WR", "answer": "Larry Fitzgerald", "image": "nfl_cardinals.png" },
+  { "hint": "TE", "answer": "Antonio Gates", "image": "nfl_chargers.png" },
+  { "hint": "RB", "answer": "John Riggins", "image": "nfl_commanders.png" },
+  { "hint": "RB", "answer": "Lenny Moore", "image": "nfl_colts.png" },
+  { "hint": "RB", "answer": "Shaun Alexander", "image": "nfl_seahawks.png" },
+  { "hint": "TE", "answer": "Tony Gonzalez", "image": "nfl_chiefs.png" },
+  { "hint": "RB", "answer": "Derrick Henry", "image": "nfl_titans.png" },
+  { "hint": "RB", "answer": "Barry Sanders", "image": "nfl_lions.png" }
+]
