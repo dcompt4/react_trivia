@@ -20,6 +20,7 @@ const sets = [
   { id: 'nfl_comebackplayer', title: 'NFL Comeback Player of the Year' },
   { id: 'nfl_mostinterceptionsseason', title: 'NFL Most Interceptions in a Season (>2005)' },
   { id: 'mlb_200hitseasons', title: 'MLB 200+ Hit Seasons' },
+  { id: 'nba_finalsmvps', title: 'NBA Finals MVPs' },
 ];
 
 export default function Home() {

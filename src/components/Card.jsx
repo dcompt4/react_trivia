@@ -6,13 +6,19 @@ export default function Card({ data, selectedColor }) {
   const [showImage, setShowImage] = useState(false);
 
   const handleClick = () => {
-    if (!revealed && selectedColor) {
-      setRevealed(true);
-      setColor(selectedColor);
-    } else if (revealed && selectedColor) {
-      setColor(selectedColor);
+  if (!revealed && selectedColor) {
+    setRevealed(true);
+    setColor(selectedColor);
+
+    // If the image is not already showing, show it when revealing the card
+    if (data.image && !showImage) {
+      setShowImage(true);
     }
-  };
+  } else if (revealed && selectedColor) {
+    setColor(selectedColor);
+  }
+};
+
 
   useEffect(() => {
     const toggleHandler = (e) => setShowImage(e.detail);
