@@ -3,25 +3,25 @@ import { useEffect, useState } from 'react';
 export default function Card({ data, selectedColor }) {
   const [revealed, setRevealed] = useState(false);
   const [color, setColor] = useState(null);
-  const [showImage, setShowImage] = useState(false);
+  const [showImage, setShowImage] = useState(false); // local image state
+  const [globalToggle, setGlobalToggle] = useState(false); // listens to navbar toggle
 
   const handleClick = () => {
-  if (!revealed && selectedColor) {
-    setRevealed(true);
-    setColor(selectedColor);
+    if (!revealed && selectedColor) {
+      setRevealed(true);
+      setColor(selectedColor);
 
-    // If the image is not already showing, show it when revealing the card
-    if (data.image && !showImage) {
-      setShowImage(true);
+      // Always show the image if revealed
+      if (data.image) {
+        setShowImage(true);
+      }
+    } else if (revealed && selectedColor) {
+      setColor(selectedColor);
     }
-  } else if (revealed && selectedColor) {
-    setColor(selectedColor);
-  }
-};
-
+  };
 
   useEffect(() => {
-    const toggleHandler = (e) => setShowImage(e.detail);
+    const toggleHandler = (e) => setGlobalToggle(e.detail);
     window.addEventListener('toggle-images', toggleHandler);
     return () => window.removeEventListener('toggle-images', toggleHandler);
   }, []);
@@ -32,7 +32,7 @@ export default function Card({ data, selectedColor }) {
       onClick={handleClick}
       style={{ backgroundColor: color || 'white' }}
     >
-      <div className="hint">{data.hint}</div>
+      <div className="hint"><p>{data.hint}</p></div>
 
       <div
         className="answer"
@@ -43,15 +43,15 @@ export default function Card({ data, selectedColor }) {
           minHeight: '1.2em',
         }}
       >
-        {data.answer}
+        <p>{data.answer}</p>
       </div>
 
       {data.image && (
-        <div
+        <div class='answer-image'
           style={{
-            opacity: showImage ? 1 : 0,
+            opacity: revealed || globalToggle ? 1 : 0,
             transition: 'opacity 0.3s ease',
-            minHeight: '60px'
+            minHeight: '60px',
           }}
         >
           <img

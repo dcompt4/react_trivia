@@ -2,26 +2,29 @@ import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
 const sets = [
-  { id: 'lsu_passing', title: 'LSU Recent Passing (Min. 2 Completions)' },
-  { id: 'lsu_top2receivers', title: 'LSU Top 2 Receivers (Yards)' },
-  { id: 'lsu_firstrounders', title: 'LSU First Round Picks' },
-  { id: 'nfl_1oadraftpicks', title: 'NFL 1OA Draft Picks' },
-  { id: 'nfl_superbowlmvps', title: 'NFL Superbowl MVPs' },
+  { id: 'lsu_top2receivers', title: 'LSU FB Top 3 Receivers (Yards)' },
+  { id: 'lsu_passing', title: 'LSU FB Recent Passing (Min. 2 Completions)' },
+  { id: 'lsu_firstrounders', title: 'LSU FB First Round Picks' },
+  { id: 'lsu_baseballtop3draft', title: 'LSU BB Draft (Top 3 Rounds)' },
+  { id: 'lsu_baseballrotationguys', title: 'LSU BB Rotation Guys (100-140 ABs)' },
+  { id: 'lsu_baseballpitchers', title: 'LSU BB Pitchers (80+ IP)' },
+  { id: 'nfl_touchdownleaderscareer', title: 'NFL Career Touchdown Leaders' },
   { id: 'nfl_touchdownleadersbyyear', title: 'NFL Touchdown Leaders By Year' },
   { id: 'nfl_touchdownleadersactivecareer', title: 'NFL Active Career Touchdown Leaders' },
-  { id: 'nfl_fantasyleaderyear', title: 'NFL Fantasy Leader' },
-  { id: 'lsu_baseballrotationguys', title: 'LSU BB Rotation Guys (100-140 ABs)' },
-  { id: 'lsu_baseballpitchers', title: 'LSU Pitchers (80+ IP)' },
-  { id: 'lsu_baseballtop3draft', title: 'LSU BB Draft (Top 3 Rounds)' },
-  { id: 'nfl_touchdownleaderscareer', title: 'NFL Career Touchdown Leaders' },
+  { id: 'nfl_superbowlmvps', title: 'NFL Superbowl MVPs' },
+  { id: 'nfl_singleseasonrushyardleaders', title: 'NFL Single Season Rushing Leaders' },
   { id: 'nfl_singleseasonrecleaders', title: 'NFL Single Season Catch Leaders' },
   { id: 'nfl_singleseasonpassleaders', title: 'NFL Single Season Passing Leaders' },
-  { id: 'nfl_singleseasonrushyardleaders', title: 'NFL Single Season Rushing Leaders' },
-  { id: 'nfl_comebackplayer', title: 'NFL Comeback Player of the Year' },
   { id: 'nfl_mostinterceptionsseason', title: 'NFL Most Interceptions in a Season (>2005)' },
-  { id: 'mlb_200hitseasons', title: 'MLB 200+ Hit Seasons' },
-  { id: 'nba_finalsmvps', title: 'NBA Finals MVPs' },
+  { id: 'nfl_fantasyleaderyear', title: 'NFL Fantasy Leader' },
+  { id: 'nfl_comebackplayer', title: 'NFL Comeback Player of the Year' },
+  { id: 'nfl_1oadraftpicks', title: 'NFL 1OA Draft Picks' },
+  { id: 'nfl_2025backupqbsnfc', title: 'NFL 2025 Backup QBs NFC' },
+  { id: 'nfl_2025backupqbsafc', title: 'NFL 2025 Backup QBs AFC' },
   { id: 'nba_mips', title: 'NBA MIPs' },
+  { id: 'nba_finalsmvps', title: 'NBA Finals MVPs' },
+  { id: 'nba_1oadraftpicks', title: 'NBA 1OA Draft Picks' },
+  { id: 'mlb_200hitseasons', title: 'MLB 200+ Hit Seasons' },
 ];
 
 export default function Home() {
@@ -75,7 +78,7 @@ export default function Home() {
               cursor: authenticated ? 'pointer' : 'not-allowed',
             }}
           >
-            {set.title}
+            <p>{set.title}</p>
           </div>
         ))}
       </div>

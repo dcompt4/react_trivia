@@ -1,0 +1,21 @@
+[
+  { "hint": "2017", "answer": "Mitchell Trubisky", "image": "nfl_bills.png" },
+  { "hint": "2021", "answer": "Zach Wilson", "image": "nfl_dolphins.png" },
+  { "hint": "2017", "answer": "Joshua Dobbs", "image": "nfl_patriots.png" },
+  { "hint": "2011", "answer": "Tyrod Taylor", "image": "nfl_jets.png" },
+
+  { "hint": "2019", "answer": "Jarrett Stidham", "image": "nfl_broncos.png" },
+  { "hint": "2019", "answer": "Gardner Minshew", "image": "nfl_chiefs.png" },
+  { "hint": "2023", "answer": "Aidan O'Connell", "image": "nfl_raiders.png" },
+  { "hint": "2015", "answer": "Taylor Heinicke", "image": "nfl_chargers.png" },
+
+  { "hint": "UDFA 2017", "answer": "Cooper Rush", "image": "nfl_ravens.png" },
+  { "hint": "UDFA 2019", "answer": "Jake Browning", "image": "nfl_bengals.png" },
+  { "hint": "2022", "answer": "Kenny Pickett", "image": "nfl_browns.png" },
+  { "hint": "2018", "answer": "Mason Rudolph", "image": "nfl_steelers.png" },
+
+  { "hint": "2021", "answer": "Davis Mills", "image": "nfl_texans.png" },
+  { "hint": "2023", "answer": "Anthony Richardson Sr.", "image": "nfl_colts.png" },
+  { "hint": "2017", "answer": "Nick Mullens", "image": "nfl_jaguars.png" },
+  { "hint": "2016", "answer": "Brandon Allen", "image": "nfl_titans.png" }
+]

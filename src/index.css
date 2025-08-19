@@ -19,7 +19,7 @@ code {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 16px;
+  gap: 20px;
   padding: 20px;
 }
 
@@ -28,11 +28,11 @@ code {
 .card {
   border: 1px solid #ccc;
   width: 200px;
-  padding: 12px;
+  /* padding: 12px; */
   border-radius: 8px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: start;
   align-items: center;
   cursor: pointer;
   transition: background 0.3s;
@@ -65,4 +65,25 @@ code {
 
 .hint {
   font-weight: bold;
+  width: 100%;
+  text-align: center;
+}
+
+.hint p, .answer p, .answer-image img {
+  margin: 0;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+.hint p {
+  display: flex;
+  padding: 3px 6px;
+  background-color: #ccc;
+  color: black;
+  overflow: hidden;
+  border-radius: 8px 8px 0 0;
+  align-items: center;
+  justify-content: center;
+}
+.answer-image img {
+  padding-bottom: 6px;
 }
