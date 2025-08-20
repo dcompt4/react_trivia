@@ -23,7 +23,9 @@ const sets = [
   { id: 'nfl_2025backupqbsafc', title: 'NFL 2025 Backup QBs AFC' },
   { id: 'nba_mips', title: 'NBA MIPs' },
   { id: 'nba_finalsmvps', title: 'NBA Finals MVPs' },
+  { id: 'nba_roty', title: 'NBA Rookie of the Years' },
   { id: 'nba_1oadraftpicks', title: 'NBA 1OA Draft Picks' },
+  { id: 'nba_6mans', title: 'NBA 6th Man of the Year' },
   { id: 'mlb_200hitseasons', title: 'MLB 200+ Hit Seasons' },
 ];
 
