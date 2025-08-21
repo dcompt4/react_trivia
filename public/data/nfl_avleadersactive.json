@@ -1,0 +1,23 @@
+[
+  { "hint": "QB", "answer": "Aaron Rodgers", "image": "nfl_packers.png" },
+  { "hint": "QB", "answer": "Russell Wilson", "image": "nfl_seahawks.png" },
+  { "hint": "QB", "answer": "Matthew Stafford", "image": "nfl_lions.png" },
+  { "hint": "LB", "answer": "Bobby Wagner", "image": "nfl_seahawks.png" },
+  { "hint": "DL", "answer": "Calais Campbell", "image": "nfl_cardinals.png" },
+  { "hint": "DL", "answer": "Cameron Jordan", "image": "nfl_saints.png" },
+  { "hint": "DL", "answer": "Cameron Heyward", "image": "nfl_steelers.png" },
+  { "hint": "OT", "answer": "Trent Williams", "image": "nfl_49ers.png" },
+  { "hint": "QB", "answer": "Joe Flacco", "image": "nfl_ravens.png" },
+  { "hint": "LB", "answer": "Von Miller", "image": "nfl_broncos.png" },
+  { "hint": "LB", "answer": "Demario Davis", "image": "nfl_saints.png" },
+  { "hint": "CB", "answer": "Patrick Peterson", "image": "nfl_cardinals.png" },
+  { "hint": "LB", "answer": "Khalil Mack", "image": "nfl_raiders.png" },
+  { "hint": "OG", "answer": "Zack Martin", "image": "nfl_cowboys.png" },
+  { "hint": "OT", "answer": "Duane Brown", "image": "nfl_texans.png" },
+  { "hint": "QB", "answer": "Kirk Cousins", "image": "nfl_commanders.png" },
+  { "hint": "WR", "answer": "Julio Jones", "image": "nfl_falcons.png" },
+  { "hint": "QB", "answer": "Patrick Mahomes", "image": "nfl_chiefs.png" },
+  { "hint": "QB", "answer": "Derek Carr", "image": "nfl_raiders.png" },
+  { "hint": "LB", "answer": "Lavonte David", "image": "nfl_buccaneers.png" },
+  { "hint": "OT", "answer": "Tyron Smith", "image": "nfl_cowboys.png" }
+]

@@ -8,6 +8,8 @@ const sets = [
   { id: 'lsu_baseballtop3draft', title: 'LSU BB Draft (Top 3 Rounds)' },
   { id: 'lsu_baseballrotationguys', title: 'LSU BB Rotation Guys (100-140 ABs)' },
   { id: 'lsu_baseballpitchers', title: 'LSU BB Pitchers (80+ IP)' },
+  { id: 'nfl_avleadersactive', title: 'NFL Approximate Value Active' },
+  { id: 'nfl_avleaderscareer', title: 'NFL Approximate Value Career' },
   { id: 'nfl_touchdownleaderscareer', title: 'NFL Career Touchdown Leaders' },
   { id: 'nfl_touchdownleadersbyyear', title: 'NFL Touchdown Leaders By Year' },
   { id: 'nfl_touchdownleadersactivecareer', title: 'NFL Active Career Touchdown Leaders' },
