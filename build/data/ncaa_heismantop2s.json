@@ -1,0 +1,61 @@
+[
+  { "hint": "2024", "answer": "Travis Hunter", "image": "ncaa_colorado.png" },
+  { "hint": "2024 2nd", "answer": "Ashton Jeanty", "image": "ncaa_boisestate.png" },
+
+  { "hint": "2023", "answer": "Jayden Daniels", "image": "ncaa_lsu.png" },
+  { "hint": "2023 2nd", "answer": "Michael Penix Jr", "image": "ncaa_washington.png" },
+
+  { "hint": "2022", "answer": "Caleb Williams", "image": "ncaa_usc.png" },
+  { "hint": "2022 2nd", "answer": "Max Duggan", "image": "ncaa_tcu.png" },
+
+  { "hint": "2021", "answer": "Bryce Young", "image": "ncaa_alabama.png" },
+  { "hint": "2021 2nd", "answer": "Aiden Hutchinson", "image": "ncaa_michigan.png" },
+
+  { "hint": "2020", "answer": "DeVonta Smith", "image": "ncaa_alabama.png" },
+  { "hint": "2020 2nd", "answer": "Trevor Lawrence", "image": "ncaa_clemson.png" },
+
+  { "hint": "2019", "answer": "Joe Burrow", "image": "ncaa_lsu.png" },
+  { "hint": "2019 2nd", "answer": "Jalen Hurts", "image": "ncaa_oklahoma.png" },
+
+  { "hint": "2018", "answer": "Kyler Murray", "image": "ncaa_oklahoma.png" },
+  { "hint": "2018 2nd", "answer": "Tua Tagovailoa", "image": "ncaa_alabama.png" },
+
+  { "hint": "2017", "answer": "Baker Mayfield", "image": "ncaa_oklahoma.png" },
+  { "hint": "2017 2nd", "answer": "Bryce Love", "image": "ncaa_stanford.png" },
+
+  { "hint": "2016", "answer": "Lamar Jackson", "image": "ncaa_louisville.png" },
+  { "hint": "2016 2nd", "answer": "Deshaun Watson", "image": "ncaa_clemson.png" },
+
+  { "hint": "2015", "answer": "Derrick Henry", "image": "ncaa_alabama.png" },
+  { "hint": "2015 2nd", "answer": "Christian Mcaffrey", "image": "ncaa_stanford.png" },
+
+  { "hint": "2014", "answer": "Marcus Mariota", "image": "ncaa_oregon.png" },
+  { "hint": "2014 2nd", "answer": "Melvin Gordon", "image": "ncaa_wisconsin.png" },
+
+  { "hint": "2013", "answer": "Jameis Winston", "image": "ncaa_fsu.png" },
+  { "hint": "2013 2nd", "answer": "AJ McCarron", "image": "ncaa_alabama.png" },
+
+  { "hint": "2012", "answer": "Johnny Manziel", "image": "ncaa_tamu.png" },
+  { "hint": "2012 2nd", "answer": "Manti Te'o", "image": "ncaa_notredame.png" },
+
+  { "hint": "2011", "answer": "Robert Griffin III", "image": "ncaa_baylor.png" },
+  { "hint": "2011 2nd", "answer": "Andrew Luck", "image": "ncaa_stanford.png" },
+
+  { "hint": "2010", "answer": "Cam Newton", "image": "ncaa_auburn.png" },
+  { "hint": "2010 2nd", "answer": "Andrew Luck", "image": "ncaa_stanford.png" }, 
+
+  { "hint": "2009", "answer": "Mark Ingram II", "image": "ncaa_alabama.png" },
+  { "hint": "2009 2nd", "answer": "Toby Gerhart", "image": "ncaa_stanford.png" },
+
+  { "hint": "2008", "answer": "Sam Bradford", "image": "ncaa_oklahoma.png" },
+  { "hint": "2008 2nd", "answer": "Colt McCoy", "image": "ncaa_texas.png" },
+
+  { "hint": "2007", "answer": "Tim Tebow", "image": "ncaa_florida.png" },
+  { "hint": "2007 2nd", "answer": "Darren McFadden", "image": "ncaa_arkansas.png" },
+
+  { "hint": "2006", "answer": "Troy Smith", "image": "ncaa_ohiostate.png" },
+  { "hint": "2006 2nd", "answer": "Darren McFadden", "image": "ncaa_arkansas.png" },
+
+  { "hint": "2005", "answer": "Reggie Bush", "image": "ncaa_usc.png" },
+  { "hint": "2005 2nd", "answer": "Vince Young", "image": "ncaa_texas.png" }
+]
