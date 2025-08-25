@@ -16,6 +16,6 @@
 
   { "hint": "2021", "answer": "Davis Mills", "image": "nfl_texans.png" },
   { "hint": "2023", "answer": "Anthony Richardson Sr.", "image": "nfl_colts.png" },
-  { "hint": "2017", "answer": "Nick Mullens", "image": "nfl_jaguars.png" },
+  { "hint": "UDFA 2017", "answer": "Nick Mullens", "image": "nfl_jaguars.png" },
   { "hint": "2016", "answer": "Brandon Allen", "image": "nfl_titans.png" }
 ]

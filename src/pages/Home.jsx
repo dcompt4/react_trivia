@@ -36,6 +36,8 @@ const sets = [
   { number: 29, id: 'mlb_200hitseasons', title: 'MLB 200+ Hit Seasons', category: 'MLB' },
 
   { number: 30, id: 'ncaa_heismantop2s', title: 'NCAA Heisman Top 2s', category: 'NCAA' },
+  
+  { number: 31, id: 'nfl_6plustouchdowns', title: 'NFL 6+ Passing Touchdowns sincs 1990', category: 'NFL' },
 ];
 
 
