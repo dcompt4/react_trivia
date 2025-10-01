@@ -38,6 +38,10 @@ const sets = [
   { number: 30, id: 'ncaa_heismantop2s', title: 'NCAA Heisman Top 2s', category: 'NCAA' },
   
   { number: 31, id: 'nfl_6plustouchdowns', title: 'NFL 6+ Passing Touchdowns sincs 1990', category: 'NFL' },
+  { number: 32, id: 'nfl_saintsreceivingleaders2010', title: 'NFL Saints Receiving Leaders Since 2010', category: 'NFL' },
+  { number: 33, id: 'nfl_saintsrushingleaders2010', title: 'NFL Saints Rushing Leaders Since 2010', category: 'NFL' },
+  { number: 34, id: 'nfl_nfcsouthpassing2000', title: 'NFL NFC South Passing Since 2000', category: 'NFL' },
+  { number: 34, id: 'nfl_receivingnoprobowls2010', title: 'NFL Most Receiving Yards With No Pro Bowls since 2010', category: 'NFL' },
 ];
 
 

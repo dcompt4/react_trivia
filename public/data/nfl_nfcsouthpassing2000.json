@@ -1,0 +1,21 @@
+[
+  { "hint": "19737", "answer": "Jameis Winston", "image": "nfl_buccaneers.png" },
+  { "hint": "14643", "answer": "Tom Brady", "image": "nfl_buccaneers.png" },
+  { "hint": "13534", "answer": "Josh Freeman", "image": "nfl_buccaneers.png" },
+  { "hint": "10940", "answer": "Brad Johnson", "image": "nfl_buccaneers.png" },
+
+  { "hint": "59735", "answer": "Matt Ryan", "image": "nfl_falcons.png" },
+  { "hint": "13268", "answer": "Chris Chandler", "image": "nfl_falcons.png" },
+  { "hint": "11505", "answer": "Michael Vick", "image": "nfl_falcons.png" },
+  { "hint": "3544", "answer": "Desmond Ridder", "image": "nfl_falcons.png" },
+
+  { "hint": "29725", "answer": "Cam Newton", "image": "nfl_panthers.png" },
+  { "hint": "19258", "answer": "Jake Delhomma", "image": "nfl_panthers.png" },
+  { "hint": "12690", "answer": "Steve Beuerlein", "image": "nfl_panthers.png" },
+  { "hint": "5280", "answer": "Bryce Young", "image": "nfl_panthers.png" },
+
+  { "hint": "68010", "answer": "Drew Brees", "image": "nfl_saints.png" },
+  { "hint": "19156", "answer": "Aaron Brooks", "image": "nfl_saints.png" },
+  { "hint": "6023", "answer": "Derek Carr", "image": "nfl_saints.png" },
+  { "hint": "2871", "answer": "Andy Dalton", "image": "nfl_saints.png" }
+]
