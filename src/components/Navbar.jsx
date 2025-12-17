@@ -1,11 +1,11 @@
 import { useNavigate } from 'react-router-dom';
 import { useState, useEffect, useRef } from 'react';
-import { Home, Image as ImageIcon, ImageOff } from 'lucide-react';
+import { Home, Image as ImageIcon, ImageOff, Play } from 'lucide-react'; // Added Play icon
 
-export default function Navbar({ title }) {
+export default function Navbar({ title, isAnswerBoard, setId }) {
   const navigate = useNavigate();
   const [selected, setSelected] = useState(null);
-  const [globalToggle, setGlobalToggle] = useState(false); // renamed for clarity
+  const [globalToggle, setGlobalToggle] = useState(false);
   const [timeLeft, setTimeLeft] = useState(0);
   const timerRef = useRef(null);
 
@@ -39,48 +39,73 @@ export default function Navbar({ title }) {
   }, []);
 
   return (
-    <div className="navbar" style={{ display: 'flex', alignItems: 'center', padding: '10px' }}>
+    <div className="navbar" style={{ display: 'flex', alignItems: 'center', padding: '10px', backgroundColor: '#fff', borderBottom: '1px solid #ddd' }}>
       <Home
         onClick={() => navigate('/')}
         size={32}
-        style={{ cursor: 'pointer' }}
+        style={{ cursor: 'pointer', marginRight: '15px' }}
         strokeWidth={2.5}
       />
 
       <button
         onClick={handleToggleImages}
-        style={{ background: 'none', border: 'none', cursor: 'pointer' }}
+        style={{ background: 'none', border: 'none', cursor: 'pointer', display: 'flex', alignItems: 'center' }}
         title="Toggle Images"
       >
         {globalToggle ? <ImageOff size={28} /> : <ImageIcon size={28} />}
       </button>
 
-      <h2 style={{ marginLeft: '10px', flexGrow: 1 }}>{title}</h2>
+      <h2 style={{ marginLeft: '15px', flexGrow: 1, fontSize: '20px' }}>{title}</h2>
 
-      {timeLeft > 0 && (
-        <div style={{ marginRight: '15px', fontWeight: 'bold', fontSize: '18px' }}>
-          {timeLeft}
-        </div>
+      {/* CONDITIONAL RENDERING: Button for Answer Board OR Colors for Game Board */}
+      {isAnswerBoard ? (
+        <button
+        onClick={() => navigate(`/board/${setId}`, { state: { title: title.replace('ANSWER KEY: ', '') } })}
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: '8px',
+            backgroundColor: '#28a745',
+            color: 'white',
+            border: 'none',
+            padding: '10px 20px',
+            borderRadius: '5px',
+            cursor: 'pointer',
+            fontWeight: 'bold',
+            fontSize: '16px'
+          }}
+        >
+          <Play size={20} fill="white" />
+          START GAME
+        </button>
+      ) : (
+        <>
+          {timeLeft > 0 && (
+            <div style={{ marginRight: '15px', fontWeight: 'bold', fontSize: '18px', color: '#000000' }}>
+              {timeLeft}s
+            </div>
+          )}
+
+          <div className="colors" style={{ display: 'flex', gap: '10px' }}>
+            {['Salmon', 'PaleGreen', 'PaleTurquoise', '#D6CDEA', '#FEF8DD'].map((color) => (
+              <div
+                key={color}
+                className="color-box"
+                style={{
+                  backgroundColor: color,
+                  width: '30px',
+                  height: '30px',
+                  borderRadius: '50%',
+                  cursor: 'pointer',
+                  border: selected === color ? '3px solid black' : '3px solid ' + color,
+                  transition: 'border 0.2s',
+                }}
+                onClick={() => handleColorClick(color)}
+              ></div>
+            ))}
+          </div>
+        </>
       )}
-
-      <div className="colors" style={{ display: 'flex', gap: '10px' }}>
-        {['Salmon', 'PaleGreen', 'PaleTurquoise', '#D6CDEA', '#FEF8DD'].map((color) => (
-          <div
-            key={color}
-            className="color-box"
-            style={{
-              backgroundColor: color,
-              width: '30px',
-              height: '30px',
-              borderRadius: '50%',
-              cursor: 'pointer',
-              border: selected === color ? '3px solid black' : '3px solid transparent',
-              transition: 'border 0.2s',
-            }}
-            onClick={() => handleColorClick(color)}
-          ></div>
-        ))}
-      </div>
     </div>
   );
 }

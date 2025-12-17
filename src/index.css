@@ -34,7 +34,7 @@ code {
 
 .card {
   border: 1px solid #ccc;
-  width: 200px;
+  /* width: 200px; */
   /* padding: 12px; */
   border-radius: 8px;
   display: flex;
@@ -51,7 +51,7 @@ code {
 }
 
 .games {
-  width: 50px;
+  /* width: 50px; */
 }
 
 .navbar {

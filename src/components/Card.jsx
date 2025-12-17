@@ -1,20 +1,21 @@
 import { useEffect, useState } from 'react';
 
-export default function Card({ data, selectedColor }) {
+// Added forceReveal to the destructured props
+export default function Card({ data, selectedColor, forceReveal }) {
   const [revealed, setRevealed] = useState(false);
   const [color, setColor] = useState(null);
-  const [showImage, setShowImage] = useState(false); // local image state
-  const [globalToggle, setGlobalToggle] = useState(false); // listens to navbar toggle
+  const [globalToggle, setGlobalToggle] = useState(false);
+
+  // LOGIC CHANGE: We are "effectively revealed" if the card was clicked OR forceReveal is true
+  const isActuallyShowing = forceReveal || revealed;
 
   const handleClick = () => {
+    // Disable clicking if we are on the Answer Board (forceReveal)
+    if (forceReveal) return;
+
     if (!revealed && selectedColor) {
       setRevealed(true);
       setColor(selectedColor);
-
-      // Always show the image if revealed
-      if (data.image) {
-        setShowImage(true);
-      }
     } else if (revealed && selectedColor) {
       setColor(selectedColor);
     }
@@ -30,15 +31,20 @@ export default function Card({ data, selectedColor }) {
     <div
       className="card"
       onClick={handleClick}
-      style={{ backgroundColor: color || 'white' }}
+      style={{ 
+        // Show white on Answer Board, or the selected color/white on Normal Board
+        backgroundColor: forceReveal ? 'white' : (color || 'white'),
+        cursor: forceReveal ? 'default' : 'pointer'
+      }}
     >
       <div className="hint"><p>{data.hint}</p></div>
 
       <div
         className="answer"
         style={{
-          visibility: revealed ? 'visible' : 'hidden',
-          opacity: revealed ? 1 : 0,
+          // Use our new variable to determine visibility
+          visibility: isActuallyShowing ? 'visible' : 'hidden',
+          opacity: isActuallyShowing ? 1 : 0,
           transition: 'opacity 0.3s ease',
           minHeight: '1.2em',
         }}
@@ -47,9 +53,10 @@ export default function Card({ data, selectedColor }) {
       </div>
 
       {data.image && (
-        <div class='answer-image'
+        <div className='answer-image'
           style={{
-            opacity: revealed || globalToggle ? 1 : 0,
+            // Images show if forced, revealed, or globally toggled
+            opacity: isActuallyShowing || globalToggle ? 1 : 0,
             transition: 'opacity 0.3s ease',
             minHeight: '60px',
           }}
