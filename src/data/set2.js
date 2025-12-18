@@ -36,4 +36,11 @@ export const set2 = [
   { number: 33, id: "2025_afc_coaches", title: "2025 AFC Coaches", category: "NFL Coaches" },
   { number: 34, id: "2025_nfc_coaches", title: "2025 NFC Coaches", category: "NFL Coaches" },
   { number: 35, id: "ncaa_biletnikoff", title: "Biletnikoff Winners", category: "NCAA Awards" },
+  { number: 36, id: "nfl_topfantasyseasonalltime", title: "Top Fantasy Season All Time (No Duplicates)", category: "NFL Fantasy" },
+  { number: 37, id: "nfl_mostrecent4tdgames", title: "Most Recent 4TD Games", category: "NFL" },
+
+  { number: 38, id: "gen_mostpopulatedcountries", title: "Most Populated Countries (2025)", category: "GEN" },
+
+  { number: 39, id: "mlb_geminimostpopularplayers", title: "Most Popular MLB Players of ALl Time", category: "MLB" },
 ];
+

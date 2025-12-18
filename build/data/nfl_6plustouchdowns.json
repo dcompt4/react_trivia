@@ -1,0 +1,29 @@
+[
+  { "hint": "2022", "answer": "Tua Tagovailoa", "image": "nfl_dolphins.png" },
+
+  { "hint": "2018", "answer": "Patrick Mahomes", "image": "nfl_chiefs.png" },
+  { "hint": "2018", "answer": "Mitchell Trubisky", "image": "nfl_bears.png" },
+
+  { "hint": "2015", "answer": "Eli Manning", "image": "nfl_giants.png" },
+  { "hint": "2015", "answer": "Drew Brees", "image": "nfl_saints.png" },
+
+  { "hint": "2014", "answer": "Ben Roethlisberger", "image": "nfl_steelers.png" },
+  { "hint": "2014", "answer": "Ryan Fitzpatrick", "image": "nfl_texans.png" },
+
+  { "hint": "2013", "answer": "Nick Foles", "image": "nfl_eagles.png" },
+  { "hint": "2013", "answer": "Peyton Manning", "image": "nfl_broncos.png" },
+
+  { "hint": "2012", "answer": "Aaron Rodgers", "image": "nfl_packers.png" },
+  { "hint": "2012", "answer": "Matt Flynn", "image": "nfl_packers.png" },
+
+  { "hint": "2009", "answer": "Tom Brady", "image": "nfl_patriots.png" },
+
+  { "hint": "2008", "answer": "Brett Favre", "image": "nfl_jets.png" },
+
+  { "hint": "2007", "answer": "Carson Palmer", "image": "nfl_bengals.png" },
+
+  { "hint": "1991", "answer": "Mark Rypien", "image": "nfl_commanders.png" },
+  { "hint": "1991", "answer": "Jim Kelly", "image": "nfl_bills.png" },
+
+  { "hint": "1990", "answer": "Joe Montana", "image": "nfl_49ers.png" }
+]
