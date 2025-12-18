@@ -1,9 +1,10 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 
-// Importing both sets
+// Importing all sets
 import { set1 } from '../data/set1';
 import { set2 } from '../data/set2';
+import { set3 } from '../data/set3'; 
 
 export default function Home() {
   const [password, setPassword] = useState('');
@@ -16,10 +17,10 @@ export default function Home() {
     setAuthenticated(input === '8880');
   };
 
-  // Grouping manually by "Set" instead of by the 'category' property
   const allSets = {
     "Set 1": set1,
-    "Set 2": set2
+    "Set 2": set2,
+    "Dudes Naming Dudes": set3 
   };
 
   return (
@@ -45,7 +46,6 @@ export default function Home() {
         )}
       </div>
 
-      {/* Map through our manually defined groups (Set 1 and Set 2) */}
       {Object.keys(allSets).map((setName) => (
         <div key={setName} style={{ marginBottom: '30px' }}>
           <h2>{setName}</h2>
@@ -60,7 +60,12 @@ export default function Home() {
                 className={`games ${!authenticated ? 'disabled' : ''}`}
                 onClick={() => {
                   if (authenticated) {
-                    navigate(`/answers/${item.id}`, { state: { title: item.title } });
+                    // CONDITIONAL ROUTING LOGIC
+                    if (setName === "Dudes Naming Dudes") {
+                      navigate(`/dnd-answers/${item.id}`, { state: { title: item.title } });
+                    } else {
+                      navigate(`/answers/${item.id}`, { state: { title: item.title } });
+                    }
                   }
                 }}
                 style={{
@@ -78,7 +83,6 @@ export default function Home() {
                   backgroundColor: '#f9f9f9'
                 }}
               >
-                {/* Toggle between number and title based on auth */}
                 {authenticated ? item.title : item.number}
               </div>
             ))}
