@@ -1,4 +1,5 @@
 [
+  { "id": 0, "name": "", "image": "" },
   { "id": 1, "name": "Julio Jones", "image": "/images/dnd/starter/starter_jj.jpg" },
   { "id": 2, "name": "Alshon Jeffery", "image": "/images/dnd/starter/starter_aj.webp" },
   { "id": 3, "name": "Julius Thomas", "image": "/images/dnd/starter/starter_jt.jpg" },
