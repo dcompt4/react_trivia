@@ -1,0 +1,23 @@
+[
+  { "id": 1, "name": "Julio Jones", "image": "/images/dnd/starter/starter_jj.jpg" },
+  { "id": 2, "name": "Alshon Jeffery", "image": "/images/dnd/starter/starter_aj.webp" },
+  { "id": 3, "name": "Julius Thomas", "image": "/images/dnd/starter/starter_jt.jpg" },
+  { "id": 4, "name": "Vic Beasley", "image": "/images/dnd/starter/starter_vb.jpg" },
+  { "id": 5, "name": "Doug Martin", "image": "/images/dnd/starter/starter_dm.jpg" },
+  { "id": 6, "name": "Cordarrelle Patterson", "image": "/images/dnd/starter/starter_cp.webp" },
+  { "id": 7, "name": "Josh Gordon", "image": "/images/dnd/starter/starter_jg.jpg" },
+  { "id": 8, "name": "Jordan Reed", "image": "/images/dnd/starter/starter_jr.jpg" },
+  { "id": 9, "name": "Gary Barnidge", "image": "/images/dnd/starter/starter_gb.jpg" },
+  { "id": 10, "name": "Lamar Miller", "image": "/images/dnd/starter/starter_lm.jpg" },
+  { "id": 11, "name": "Golden Tate", "image": "/images/dnd/starter/starter_gt.jpg" },
+  { "id": 12, "name": "LeGarrette Blount", "image": "/images/dnd/starter/starter_lb.webp" },
+  { "id": 13, "name": "Arian Foster", "image": "/images/dnd/starter/starter_af.jpg" },
+  { "id": 14, "name": "DeMarco Murray", "image": "/images/dnd/starter/starter_dmurray.jpg" },
+  { "id": 15, "name": "Chris Hogan", "image": "/images/dnd/starter/starter_ch.jpg" },
+  { "id": 16, "name": "Emmanuel Sanders", "image": "/images/dnd/starter/starter_es.jpg" },
+  { "id": 17, "name": "Jimmy Graham", "image": "/images/dnd/starter/starter_jgraham.jpg" },
+  { "id": 18, "name": "Janoris Jenkins", "image": "/images/dnd/starter/starter_jjenkins.jpg" },
+  { "id": 19, "name": "Allen Robinson", "image": "/images/dnd/starter/starter_ar.webp" },
+  { "id": 20, "name": "C.J. Spiller", "image": "/images/dnd/starter/starter_cjs.jpg" },
+  { "id": 21, "name": "Malcolm Butler", "image": "/images/dnd/starter/starter_mb.jpg" }
+]
