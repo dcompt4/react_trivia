@@ -1,0 +1,34 @@
+[
+  { "id": 0, "name": "", "image": "" },
+  { "id": 1, "name": "Jerry Rice", "image": "/images/dnd/big/big_jr.jpg" },
+  { "id": 2, "name": "Kirk Cousins", "image": "/images/dnd/big/big_kc.jpg" },
+  { "id": 3, "name": "Naz Reid", "image": "/images/dnd/big/big_nr.webp" },
+  { "id": 4, "name": "Baljeet", "image": "/images/dnd/big/big_baljeet.jpg" },
+  { "id": 5, "name": "Bo Nix", "image": "/images/dnd/big/big_bn.jpg" },
+{ "id": 6, "name": "Dan Marino", "image": "/images/dnd/big/big_dm.jpg" },
+{ "id": 7, "name": "Terry Bradshaw", "image": "/images/dnd/big/big_tb.jpg" },
+    { "id": 8, "name": "Matt Flynn", "image": "/images/dnd/big/big_mf.webp" },
+  { "id": 9, "name": "Aaron Rodgers", "image": "/images/dnd/big/big_ar.jpg" },
+  { "id": 10, "name": "Tremont Waters", "image": "/images/dnd/big/big_tw.webp" },
+  { "id": 11, "name": "Tim Quarterman", "image": "/images/dnd/big/big_tq.jpg" },
+  { "id": 12, "name": "James Harden", "image": "/images/dnd/big/big_jh.jpg" },
+  { "id": 13, "name": "Beanie Wells", "image": "/images/dnd/big/big_bw.webp" },
+  { "id": 14, "name": "Khalil Herbert", "image": "/images/dnd/big/big_kh.webp" },
+  { "id": 15, "name": "Johnny Johnson", "image": "/images/dnd/big/big_jj.jpg" },
+  { "id": 16, "name": "Kenneth Walker", "image": "/images/dnd/big/big_kw.jpg" },
+  { "id": 17, "name": "Brian Robinson Jr", "image": "/images/dnd/big/big_br.jpg" },
+
+  
+  { "id": 18, "name": "Baljeet", "image": "/images/dnd/big/big_.jpg" },
+  { "id": 19, "name": "Baljeet", "image": "/images/dnd/big/big_.jpg" },
+  { "id": 20, "name": "Baljeet", "image": "/images/dnd/big/big_.jpg" },
+  { "id": 21, "name": "Baljeet", "image": "/images/dnd/big/big_.jpg" },
+  { "id": 22, "name": "Baljeet", "image": "/images/dnd/big/big_.jpg" },
+  { "id": 23, "name": "Baljeet", "image": "/images/dnd/big/big_.jpg" },
+  { "id": 24, "name": "Baljeet", "image": "/images/dnd/big/big_.jpg" },
+  { "id": 25, "name": "Baljeet", "image": "/images/dnd/big/big_.jpg" },
+  { "id": 26, "name": "Baljeet", "image": "/images/dnd/big/big_.jpg" },
+  { "id": 27, "name": "Baljeet", "image": "/images/dnd/big/big_.jpg" },
+  { "id": 28, "name": "Baljeet", "image": "/images/dnd/big/big_.jpg" }
+  
+]
