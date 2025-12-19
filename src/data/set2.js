@@ -42,5 +42,8 @@ export const set2 = [
   { number: 38, id: "gen_mostpopulatedcountries", title: "Most Populated Countries (2025)", category: "GEN" },
 
   { number: 39, id: "mlb_geminimostpopularplayers", title: "Gemini's Most Popular MLB Players of All Time", category: "MLB" },
+  { number: 40, id: "nfl_recyardleaderbydraft", title: "NFL Rec. Yard Leader by Draft", category: "NFL Draft" },
+  { number: 41, id: "nfl_rushyardleaderbydraft", title: "NFL Rush Yard Leader by Draft", category: "NFL Draft" },
+  { number: 42, id: "nfl_passyardleaderbydraft", title: "NFL Pass Yard Leader by Draft", category: "NFL Draft" },
 ];
 
