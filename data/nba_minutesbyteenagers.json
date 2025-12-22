@@ -1,0 +1,22 @@
+[
+  { "hint": "2003-04", "answer": "LeBron James", "image": "nba_cavaliers.png" },
+  { "hint": "2003-04", "answer": "Carmelo Anthony", "image": "nba_nuggets.png" },
+  { "hint": "2014-15", "answer": "Andrew Wiggins", "image": "nba_timberwolves.png" },
+  { "hint": "2007-08", "answer": "Kevin Durant", "image": "nba_supersonics.png" },
+  { "hint": "2004-05", "answer": "Dwight Howard", "image": "nba_magic.png" },
+  { "hint": "2003-04", "answer": "Chris Bosh", "image": "nba_raptors.png" },
+  { "hint": "2024-25", "answer": "Bub Carrington", "image": "nba_wizards.png" },
+  { "hint": "2022-23", "answer": "Jabari Smith Jr.", "image": "nba_rockets.png" },
+  { "hint": "2017-18", "answer": "Jayson Tatum", "image": "nba_celtics.png" },
+  { "hint": "1996-97", "answer": "Stephon Marbury", "image": "nba_timberwolves.png" },
+  { "hint": "2018-19", "answer": "Luka Dončić", "image": "nba_mavericks.png" },
+  { "hint": "2020-21", "answer": "Anthony Edwards", "image": "nba_timberwolves.png" },
+  { "hint": "1995-96", "answer": "Kevin Garnett", "image": "nba_timberwolves.png" },
+  { "hint": "2016-17", "answer": "Brandon Ingram", "image": "nba_lakers.png" },
+  { "hint": "2001-02", "answer": "Tony Parker", "image": "nba_spurs.png" },
+  { "hint": "2015-16", "answer": "D'Angelo Russell", "image": "nba_lakers.png" },
+  { "hint": "2015-16", "answer": "Justise Winslow", "image": "nba_heat.png" },
+  { "hint": "2018-19", "answer": "Kevin Knox", "image": "nba_knicks.png" },
+  { "hint": "2021-22", "answer": "Jalen Green", "image": "nba_rockets.png" },
+  { "hint": "2000-01", "answer": "Darius Miles", "image": "nba_clippers.png" }
+]
