@@ -1,0 +1,22 @@
+[
+  { "hint": "QB", "answer": "Tony Romo", "image": "nfl_cowboys.png" },
+  { "hint": "TE", "answer": "Antonio Gates", "image": "nfl_chargers.png" },
+  { "hint": "QB", "answer": "Jeff Garcia", "image": "nfl_49ers.png" },
+  { "hint": "QB", "answer": "Kurt Warner", "image": "nfl_rams.png" },
+  { "hint": "RB", "answer": "Priest Holmes", "image": "nfl_chiefs.png" },
+  { "hint": "QB", "answer": "Jon Kitna", "image": "nfl_bengals.png" },
+  { "hint": "RB", "answer": "Austin Ekeler", "image": "nfl_chargers.png" },
+  { "hint": "WR", "answer": "Wes Welker", "image": "nfl_patriots.png" },
+  { "hint": "RB", "answer": "Arian Foster", "image": "nfl_texans.png" },
+  { "hint": "WR", "answer": "Adam Thielen", "image": "nfl_vikings.png" },
+  { "hint": "QB", "answer": "Jake Delhomme", "image": "nfl_panthers.png" },
+  { "hint": "RB", "answer": "Fred Jackson", "image": "nfl_bills.png" },
+  { "hint": "WR", "answer": "Rod Smith", "image": "nfl_broncos.png" },
+  { "hint": "RB", "answer": "LeGarrette Blount", "image": "nfl_patriots.png" },
+  { "hint": "WR", "answer": "Nate Washington", "image": "nfl_titans.png" },
+  { "hint": "WR", "answer": "Doug Baldwin", "image": "nfl_seahawks.png" },
+  { "hint": "RB", "answer": "Pierre Thomas", "image": "nfl_saints.png" },
+  { "hint": "QB", "answer": "Case Keenum", "image": "nfl_texans.png" },
+  { "hint": "RB", "answer": "Chris Ivory", "image": "nfl_jets.png" },
+  { "hint": "WR", "answer": "Cole Beasley", "image": "nfl_cowboys.png" }
+]

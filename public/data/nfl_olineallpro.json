@@ -1,0 +1,22 @@
+[
+  { "hint": "RG", "answer": "Zack Martin", "image": "nfl_cowboys.png" },
+  { "hint": "C", "answer": "Jason Kelce", "image": "nfl_eagles.png" },
+  { "hint": "LT", "answer": "Joe Thomas", "image": "nfl_browns.png" },
+  { "hint": "RG", "answer": "Jahri Evans", "image": "nfl_saints.png" },
+  { "hint": "LG", "answer": "Quenton Nelson", "image": "nfl_colts.png" },
+  { "hint": "LT", "answer": "Trent Williams", "image": "nfl_commanders.png" },
+  { "hint": "LT", "answer": "David Bakhtiari", "image": "nfl_packers.png" },
+  { "hint": "LG", "answer": "Joel Bitonio", "image": "nfl_browns.png" },
+  { "hint": "T", "answer": "Jack Conklin", "image": "nfl_browns.png" },
+  { "hint": "RG", "answer": "David DeCastro", "image": "nfl_steelers.png" },
+  { "hint": "RT", "answer": "Lane Johnson", "image": "nfl_eagles.png" },
+  { "hint": "C", "answer": "Ryan Kalil", "image": "nfl_panthers.png" },
+  { "hint": "LT", "answer": "Jason Peters", "image": "nfl_eagles.png" },
+  { "hint": "C", "answer": "Maurkice Pouncey", "image": "nfl_steelers.png" },
+  { "hint": "RT/LT", "answer": "Penei Sewell", "image": "nfl_lions.png" },
+  { "hint": "T", "answer": "Tyron Smith", "image": "nfl_cowboys.png" },
+  { "hint": "LG", "answer": "Joe Thuney", "image": "nfl_patriots.png" },
+  { "hint": "LT", "answer": "Andrew Whitworth", "image": "nfl_bengals.png" },
+  { "hint": "RT", "answer": "Tristan Wirfs", "image": "nfl_buccaneers.png" },
+  { "hint": "RT", "answer": "Marshal Yanda", "image": "nfl_ravens.png" }
+]

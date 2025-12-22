@@ -5,6 +5,7 @@ import { useNavigate } from 'react-router-dom';
 import { set1 } from '../data/set1';
 import { set2 } from '../data/set2';
 import { set3 } from '../data/set3'; 
+import { set4 } from '../data/set4'; 
 
 export default function Home() {
   const [password, setPassword] = useState('');
@@ -20,6 +21,7 @@ export default function Home() {
   const allSets = {
     "Set 1": set1,
     "Set 2": set2,
+    "Set 4": set4,
     "Dudes Naming Dudes": set3 
   };
 
@@ -35,6 +37,7 @@ export default function Home() {
           value={password}
           onChange={handlePasswordChange}
           style={{
+            margin: '10px',
             padding: '10px',
             fontSize: '16px',
             width: '300px',
