@@ -56,6 +56,29 @@ export default function Navbar({ title, isAnswerBoard, setId }) {
     return () => clearInterval(timerRef.current);
   }, []);
 
+  useEffect(() => {
+    const scoreHandler = (e) => {
+      const { color, previousColor } = e.detail;
+  
+      setScores(prev => {
+        const newScores = { ...prev };
+        
+        // Add point to new color
+        newScores[color] = (newScores[color] || 0) + 1;
+  
+        // If the card already had a color, subtract a point from the old color
+        if (previousColor && newScores[previousColor] > 0) {
+          newScores[previousColor] -= 1;
+        }
+  
+        return newScores;
+      });
+    };
+  
+    window.addEventListener('card-scored', scoreHandler);
+    return () => window.removeEventListener('card-scored', scoreHandler);
+  }, []);
+
   return (
     <div className="navbar" style={{ 
       display: 'flex', 
@@ -113,46 +136,63 @@ export default function Navbar({ title, isAnswerBoard, setId }) {
             </div>
           )}
 
-          <div className="colors" style={{ display: 'flex', gap: '20px' }}>
-            {colors.map((color) => (
-              <div key={color} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '5px' }}>
-                
-                {/* Score Controls (Only for DND Game) */}
-                {isDndGame && (
-                  <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '2px' }}>
-                    <Minus 
-                      size={18} 
-                      onClick={(e) => updateScore(color, -1, e)} 
-                      style={{ cursor: 'pointer', color: '#888' }} 
-                    />
-                    <span style={{ fontWeight: 'bold', fontSize: '18px', minWidth: '20px', textAlign: 'center' }}>
-                      {scores[color]}
-                    </span>
-                    <Plus 
-                      size={18} 
-                      onClick={(e) => updateScore(color, 1, e)} 
-                      style={{ cursor: 'pointer', color: '#28a745' }} 
-                    />
-                  </div>
-                )}
+<div className="colors" style={{ display: 'flex', gap: '20px' }}>
+  {colors.map((color) => (
+    <div key={color} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '5px' }}>
+      
+      {/* Score Controls (Manual overrides) */}
+      {isDndGame && (
+        <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '2px' }}>
+          <Minus 
+            size={18} 
+            onClick={(e) => updateScore(color, -1, e)} 
+            style={{ cursor: 'pointer', color: '#888' }} 
+          />
+          <Plus 
+            size={18} 
+            onClick={(e) => updateScore(color, 1, e)} 
+            style={{ cursor: 'pointer', color: '#28a745' }} 
+          />
+        </div>
+      )}
 
-                <div
-                  className="color-box"
-                  style={{
-                    backgroundColor: color,
-                    width: '35px',
-                    height: '35px',
-                    borderRadius: '50%',
-                    cursor: 'pointer',
-                    border: selected === color ? '4px solid #333' : '4px solid ' + color,
-                    transition: 'all 0.2s',
-                    boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
-                  }}
-                  onClick={() => handleColorClick(color)}
-                ></div>
-              </div>
-            ))}
-          </div>
+      {/* The Color Dot with Score Overlay */}
+      <div
+        className="color-box"
+        onClick={() => handleColorClick(color)}
+        style={{
+          backgroundColor: color,
+          width: '45px', // Slightly larger to fit text comfortably
+          height: '45px',
+          borderRadius: '50%',
+          cursor: 'pointer',
+          border: selected === color ? '4px solid #333' : '4px solid ' + color,
+          transition: 'all 0.2s',
+          boxShadow: '0 2px 4px rgba(0,0,0,0.1)',
+          display: 'flex',           // Center the text
+          alignItems: 'center',      // Center the text
+          justifyContent: 'center',  // Center the text
+          position: 'relative'
+        }}
+      >
+        {/* Score Text inside the dot */}
+        <span style={{ 
+          color: '#333', 
+          fontWeight: 'bold', 
+          fontSize: '18px',
+          textShadow: '0px 0px 2px rgba(255,255,255,0.8)' // Helps readability on darker colors
+        }}>
+          {scores[color] || 0}
+        </span>
+      </div>
+      
+      {/* Optional: Small label below if you want the color name */}
+      {/* <span style={{ fontSize: '10px', color: '#666', textTransform: 'uppercase' }}>
+        {color.replace('#', '')}
+      </span> */}
+    </div>
+  ))}
+</div>
         </div>
       )}
     </div>

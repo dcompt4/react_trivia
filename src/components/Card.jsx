@@ -10,14 +10,22 @@ export default function Card({ data, selectedColor, forceReveal }) {
   const isActuallyShowing = forceReveal || revealed;
 
   const handleClick = () => {
-    // Disable clicking if we are on the Answer Board (forceReveal)
     if (forceReveal) return;
-
+  
     if (!revealed && selectedColor) {
       setRevealed(true);
       setColor(selectedColor);
-    } else if (revealed && selectedColor) {
+      // NEW: Tell the navbar a card was claimed by this color
+      window.dispatchEvent(new CustomEvent('card-scored', { 
+        detail: { color: selectedColor, previousColor: null } 
+      }));
+    } else if (revealed && selectedColor && selectedColor !== color) {
+      const oldColor = color;
       setColor(selectedColor);
+      // NEW: Tell the navbar to swap the point from the old color to the new one
+      window.dispatchEvent(new CustomEvent('card-scored', { 
+        detail: { color: selectedColor, previousColor: oldColor } 
+      }));
     }
   };
 

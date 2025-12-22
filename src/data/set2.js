@@ -45,5 +45,6 @@ export const set2 = [
   { number: 40, id: "nfl_recyardleaderbydraft", title: "NFL Rec. Yard Leader by Draft", category: "NFL Draft" },
   { number: 41, id: "nfl_rushyardleaderbydraft", title: "NFL Rush Yard Leader by Draft", category: "NFL Draft" },
   { number: 42, id: "nfl_passyardleaderbydraft", title: "NFL Pass Yard Leader by Draft", category: "NFL Draft" },
-];
 
+  { number: 43, id: "nba_pointstotalbydraft", title: "NBA Total Points by Draft", category: "NBA Draft" },
+];

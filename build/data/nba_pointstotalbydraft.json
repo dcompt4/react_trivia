@@ -1,0 +1,76 @@
+[
+  { "hint": "2025", "answer": "Kon Knueppel", "image": "nba_hornets.png" },
+  { "hint": "2025", "answer": "Cooper Flagg", "image": "nba_mavericks.png" },
+  { "hint": "2025", "answer": "VJ Edgecombe", "image": "nba_76ers.png" },
+  { "hint": "2025", "answer": "Jeremiah Fears", "image": "nba_pelicans.png" },
+
+  { "hint": "2024", "answer": "Stephon Castle", "image": "nba_spurs.png" },
+  { "hint": "2024", "answer": "Alex Sarr", "image": "nba_wizards.png" },
+  { "hint": "2024", "answer": "Zaccharie Risacher", "image": "nba_hawks.png" },
+  { "hint": "2024", "answer": "Jared McCain", "image": "nba_76ers.png" },
+
+  { "hint": "2023", "answer": "Victor Wembanyama", "image": "nba_spurs.png" },
+  { "hint": "2023", "answer": "Brandon Miller", "image": "nba_hornets.png" },
+  { "hint": "2023", "answer": "Keyonte George", "image": "nba_jazz.png" },
+  { "hint": "2023", "answer": "Scoot Henderson", "image": "nba_trailblazers.png" },
+
+  { "hint": "2022", "answer": "Paolo Banchero", "image": "nba_magic.png" },
+  { "hint": "2022", "answer": "Jalen Williams", "image": "nba_thunder.png" },
+  { "hint": "2022", "answer": "Chet Holmgren", "image": "nba_thunder.png" },
+  { "hint": "2022", "answer": "Bennedict Mathurin", "image": "nba_pacers.png" },
+
+  { "hint": "2021", "answer": "Cade Cunningham", "image": "nba_pistons.png" },
+  { "hint": "2021", "answer": "Jalen Green", "image": "nba_rockets.png" },
+  { "hint": "2021", "answer": "Franz Wagner", "image": "nba_magic.png" },
+  { "hint": "2021", "answer": "Scottie Barnes", "image": "nba_raptors.png" },
+
+  { "hint": "2020", "answer": "Anthony Edwards", "image": "nba_timberwolves.png" },
+  { "hint": "2020", "answer": "LaMelo Ball", "image": "nba_hornets.png" },
+  { "hint": "2020", "answer": "Tyrese Maxey", "image": "nba_76ers.png" },
+  { "hint": "2020", "answer": "Desmond Bane", "image": "nba_celtics.png" },
+
+  { "hint": "2019", "answer": "Zion Williamson", "image": "nba_pelicans.png" },
+  { "hint": "2019", "answer": "Ja Morant", "image": "nba_grizzlies.png" },
+  { "hint": "2019", "answer": "Tyler Herro", "image": "nba_heat.png" },
+  { "hint": "2019", "answer": "RJ Barrett", "image": "nba_knicks.png" },
+
+  { "hint": "2018", "answer": "Luka Dončić", "image": "nba_hawks.png" },
+  { "hint": "2018", "answer": "Trae Young", "image": "nba_mavericks.png" },
+  { "hint": "2018", "answer": "Shai Gilgeous-Alexander", "image": "nba_hornets.png" },
+  { "hint": "2018", "answer": "Collin Sexton", "image": "nba_cavaliers.png" },
+
+  { "hint": "2017", "answer": "Bria", "image": "nba_.png" },
+  { "hint": "2017", "answer": "Ladd", "image": "nba_.png" },
+  { "hint": "2017", "answer": "Broc", "image": "nba_.png" },
+  { "hint": "2017", "answer": "Marv", "image": "nba_.png" },
+
+  { "hint": "2016", "answer": "Bria", "image": "nba_.png" },
+  { "hint": "2016", "answer": "Ladd", "image": "nba_.png" },
+  { "hint": "2016", "answer": "Broc", "image": "nba_.png" },
+  { "hint": "2016", "answer": "Marv", "image": "nba_.png" },
+
+  { "hint": "2015", "answer": "Bria", "image": "nba_.png" },
+  { "hint": "2015", "answer": "Ladd", "image": "nba_.png" },
+  { "hint": "2015", "answer": "Broc", "image": "nba_.png" },
+  { "hint": "2015", "answer": "Marv", "image": "nba_.png" },
+
+  { "hint": "2014", "answer": "Bria", "image": "nba_.png" },
+  { "hint": "2014", "answer": "Ladd", "image": "nba_.png" },
+  { "hint": "2014", "answer": "Broc", "image": "nba_.png" },
+  { "hint": "2014", "answer": "Marv", "image": "nba_.png" },
+
+  { "hint": "2024", "answer": "Bria", "image": "nba_.png" },
+  { "hint": "2024", "answer": "Ladd", "image": "nba_.png" },
+  { "hint": "2024", "answer": "Broc", "image": "nba_.png" },
+  { "hint": "2024", "answer": "Marv", "image": "nba_.png" },
+
+  { "hint": "2024", "answer": "Bria", "image": "nba_.png" },
+  { "hint": "2024", "answer": "Ladd", "image": "nba_.png" },
+  { "hint": "2024", "answer": "Broc", "image": "nba_.png" },
+  { "hint": "2024", "answer": "Marv", "image": "nba_.png" },
+
+  { "hint": "2024", "answer": "Bria", "image": "nba_.png" },
+  { "hint": "2024", "answer": "Ladd", "image": "nba_.png" },
+  { "hint": "2024", "answer": "Broc", "image": "nba_.png" },
+  { "hint": "2024", "answer": "Marv", "image": "nba_.png" }
+]
