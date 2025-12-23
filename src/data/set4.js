@@ -4,8 +4,11 @@ export const set4 = [
   { number: 3, id: "nfl_undraftedfantasypoints", title: "NFL Most Career FNTSY PTS since 2000 by Undrafted", category: "NFL Fantasy" },
   { number: 4, id: "nfl_olineallpro", title: "NFL Most All Pros since 2010 Olineman", category: "NFL AP" },
 
-  { number: 5, id: "gem_strongestfictionalcharacters", title: "Gemini's Strongest Fictioanl Characters", category: "AI" },
+  { number: 5, id: "gem_strongestfictionalcharacters", title: "Gemini's Strongest Fictional Characters", category: "AI" },
 
   { number: 6, id: "gen_highestgrossingfilms", title: "Highest Grossing Films", category: "GEN" },
   { number: 7, id: "nfl_200ydbackupqbs2020", title: "NFL Backup QBs 200 YD Games since 2020", category: "NFL Passing" },
+
+  { number: 8, id: "nfl_heaviest100ydrec", title: "NFL Heaviest 1000 YD Receivers since 2010", category: "NFL Rec" },
+  { number: 9, id: "ncaa_toppassydseason1998", title: "NCAA Top Pass Yd Season since 2010", category: "NCAA Pass" },
 ];
