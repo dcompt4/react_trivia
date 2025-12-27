@@ -11,7 +11,7 @@ export default function Navbar({ title, isAnswerBoard, setId }) {
   const timerRef = useRef(null);
 
   // Score state for each team/color
-  const colors = ['Salmon', 'PaleGreen', 'PaleTurquoise', '#D6CDEA', '#FEF8DD'];
+  const colors = ['Salmon', 'PaleGreen', 'PaleTurquoise', '#D6CDEA', '#FEF8DD', 'RoyalBlue'];
   const [scores, setScores] = useState(
     colors.reduce((acc, color) => ({ ...acc, [color]: 0 }), {})
   );
