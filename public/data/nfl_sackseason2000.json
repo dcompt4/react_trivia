@@ -1,0 +1,22 @@
+[
+  { "hint": "2001", "answer": "Michael Strahan", "image": "nfl_giants.png" },
+  { "hint": "2021", "answer": "T.J. Watt", "image": "nfl_steelers.png" },
+  { "hint": "2011", "answer": "Jared Allen", "image": "nfl_vikings.png" },
+  { "hint": "2025", "answer": "Myles Garrett", "image": "nfl_browns.png" },
+  { "hint": "2014", "answer": "Justin Houston", "image": "nfl_chiefs.png" },
+  { "hint": "2018", "answer": "Aaron Donald", "image": "nfl_rams.png" },
+  { "hint": "2012", "answer": "J.J. Watt", "image": "nfl_texans.png" },
+  { "hint": "2008", "answer": "DeMarcus Ware", "image": "nfl_cowboys.png" },
+  { "hint": "2019", "answer": "Shaquil Barrett", "image": "nfl_buccaneers.png" },
+  { "hint": "2013", "answer": "Robert Mathis", "image": "nfl_colts.png" },
+  { "hint": "2012", "answer": "Aldon Smith", "image": "nfl_49ers.png" },
+  { "hint": "2019", "answer": "Chandler Jones", "image": "nfl_cardinals.png" },
+  { "hint": "2013", "answer": "Robert Quinn", "image": "nfl_rams.png" },
+  { "hint": "2022", "answer": "Nick Bosa", "image": "nfl_49ers.png" },
+  { "hint": "2012", "answer": "Von Miller", "image": "nfl_broncos.png" },
+  { "hint": "2002", "answer": "Jason Taylor", "image": "nfl_dolphins.png" },
+  { "hint": "2011", "answer": "Jason Babin", "image": "nfl_eagles.png" },
+  { "hint": "2023", "answer": "Josh Hines-Allen", "image": "nfl_jaguars.png" },
+  { "hint": "2024", "answer": "Trey Hendrickson", "image": "nfl_bengals.png" },
+  { "hint": "2008", "answer": "Joey Porter", "image": "nfl_dolphins.png" }
+]
