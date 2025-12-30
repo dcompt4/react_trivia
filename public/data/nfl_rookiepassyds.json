@@ -1,0 +1,22 @@
+[
+  { "hint": "2012", "answer": "Andrew Luck", "image": "nfl_colts.png" },
+  { "hint": "2020", "answer": "Justin Herbert", "image": "nfl_chargers.png" },
+  { "hint": "2023", "answer": "C.J. Stroud", "image": "nfl_texans.png" },
+  { "hint": "2011", "answer": "Cam Newton", "image": "nfl_panthers.png" },
+  { "hint": "2015", "answer": "Jameis Winston", "image": "nfl_buccaneers.png" },
+  { "hint": "2021", "answer": "Mac Jones", "image": "nfl_patriots.png" },
+  { "hint": "2016", "answer": "Carson Wentz", "image": "nfl_eagles.png" },
+  { "hint": "2024", "answer": "Bo Nix", "image": "nfl_broncos.png" },
+  { "hint": "1998", "answer": "Peyton Manning", "image": "nfl_colts.png" },
+  { "hint": "2018", "answer": "Baker Mayfield", "image": "nfl_cleveland.png" },
+  { "hint": "2019", "answer": "Kyler Murray", "image": "nfl_cardinals.png" },
+  { "hint": "2016", "answer": "Dak Prescott", "image": "nfl_cowboys.png" },
+  { "hint": "2021", "answer": "Trevor Lawrence", "image": "nfl_jaguars.png" },
+  { "hint": "2024", "answer": "Jayden Daniels", "image": "nfl_commanders.png" },
+  { "hint": "2024", "answer": "Caleb Williams", "image": "nfl_bears.png" },
+  { "hint": "2010", "answer": "Sam Bradford", "image": "nfl_rams.png" },
+  { "hint": "2008", "answer": "Matt Ryan", "image": "nfl_falcons.png" },
+  { "hint": "2011", "answer": "Andy Dalton", "image": "nfl_bengals.png" },
+  { "hint": "2012", "answer": "Brandon Weeden", "image": "nfl_cleveland.png" },
+  { "hint": "2012", "answer": "Ryan Tannehill", "image": "nfl_dolphins.png" }
+]

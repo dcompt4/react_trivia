@@ -1,0 +1,22 @@
+[
+  { "hint": "2000", "answer": "Tony Gonzalez", "image": "nfl_chiefs.png" },
+  { "hint": "2003", "answer": "Antonio Gates", "image": "nfl_chargers.png" },
+  { "hint": "2013", "answer": "Travis Kelce", "image": "nfl_chiefs.png" },
+  { "hint": "2003", "answer": "Jason Witten", "image": "nfl_raiders.png" },
+  { "hint": "2010", "answer": "Rob Gronkowski", "image": "nfl_buccaneers.png" },
+  { "hint": "2010", "answer": "Jimmy Graham", "image": "nfl_seahawks.png" },
+  { "hint": "2007", "answer": "Greg Olsen", "image": "nfl_seahawks.png" },
+  { "hint": "2013", "answer": "Zach Ertz", "image": "nfl_commanders.png" },
+  { "hint": "2006", "answer": "Vernon Davis", "image": "nfl_commanders.png" },
+  { "hint": "2017", "answer": "George Kittle", "image": "nfl_49ers.png" },
+  { "hint": "2009", "answer": "Jared Cook", "image": "nfl_titans.png" },
+  { "hint": "2018", "answer": "Mark Andrews", "image": "nfl_ravens.png" },
+  { "hint": "2005", "answer": "Heath Miller", "image": "nfl_steelers.png" },
+  { "hint": "2003", "answer": "Dallas Clark", "image": "nfl_buccaneers.png" },
+  { "hint": "2004", "answer": "Ben Watson", "image": "nfl_patriots.png" },
+  { "hint": "2001", "answer": "Todd Heap", "image": "nfl_ravens.png" },
+  { "hint": "2002", "answer": "Jeremy Shockey", "image": "nfl_giants.png" },
+  { "hint": "2016", "answer": "Hunter Henry", "image": "nfl_chargers.png" },
+  { "hint": "2011", "answer": "Kyle Rudolph", "image": "nfl_buccaneers.png" },
+  { "hint": "2006", "answer": "Owen Daniels", "image": "nfl_texans.png" }
+]
