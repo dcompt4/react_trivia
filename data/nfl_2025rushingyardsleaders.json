@@ -1,0 +1,22 @@
+[
+  { "hint": "1621", "answer": "James Cook", "image": "nfl_bills.png" },
+  { "hint": "1595", "answer": "Derrick Henry", "image": "nfl_ravens.png" },
+  { "hint": "1585", "answer": "Jonathan Taylor", "image": "nfl_colts.png" },
+  { "hint": "1478", "answer": "Bijan Robinson", "image": "nfl_falcons.png" },
+  { "hint": "1350", "answer": "De'Von Achane", "image": "nfl_dolphins.png" },
+  { "hint": "1252", "answer": "Kyren Williams", "image": "nfl_rams.png" },
+  { "hint": "1223", "answer": "Jahmyr Gibbs", "image": "nfl_lions.png" },
+  { "hint": "1202", "answer": "Christian McCaffrey", "image": "nfl_49ers.png" },
+  { "hint": "1201", "answer": "Javonte Williams", "image": "nfl_cowboys.png" },
+  { "hint": "1140", "answer": "Saquon Barkley", "image": "nfl_eagles.png" },
+  { "hint": "1107", "answer": "Travis Etienne", "image": "nfl_jaguars.png" },
+  { "hint": "1087", "answer": "D'Andre Swift", "image": "nfl_bears.png" },
+  { "hint": "1082", "answer": "Tony Pollard", "image": "nfl_titans.png" },
+  { "hint": "1076", "answer": "Rico Dowdle", "image": "nfl_panthers.png" },
+  { "hint": "1065", "answer": "Breece Hall", "image": "nfl_jets.png" },
+  { "hint": "1027", "answer": "Kenneth Walker III", "image": "nfl_seahawks.png" },
+  { "hint": "1019", "answer": "Chase Brown", "image": "nfl_bengals.png" },
+  { "hint": "975", "answer": "Ashton Jeanty", "image": "nfl_raiders.png" },
+  { "hint": "958", "answer": "Jaylen Warren", "image": "nfl_steelers.png" },
+  { "hint": "929", "answer": "Josh Jacobs", "image": "nfl_packers.png" }
+]
