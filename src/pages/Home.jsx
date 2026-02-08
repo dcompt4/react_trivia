@@ -6,6 +6,7 @@ import { set1 } from '../data/set1';
 import { set2 } from '../data/set2';
 import { set3 } from '../data/set3'; 
 import { set4 } from '../data/set4'; 
+import { set5 } from '../data/set5'; 
 
 export default function Home() {
   const [password, setPassword] = useState('');
@@ -22,6 +23,7 @@ export default function Home() {
     "Set 1": set1,
     "Set 2": set2,
     "Set 4": set4,
+    "Set 5": set5,
     "Dudes Naming Dudes": set3 
   };
 
