@@ -8,4 +8,7 @@ export const set5 = [
   { number: 5, id: "nfl_2025highestpprgames", title: "NFL Highest PPR Games 2025", category: "NFL" },
   { number: 6, id: "nfl_2025receivingyardleaders", title: "NFL Receiving Yard Leaders 2025", category: "NFL" },
   { number: 7, id: "nfl_2025rushingyardleaders", title: "NFL Rushing Yard Leaders 2025", category: "NFL" },
+
+  { number: 8, id: "nba_undraftedactiveppg", title: "NBA Most PPG by an Undrafted Active Player", category: "NBA" },
+  { number: 9, id: "nba_dukeppg", title: "NBA Most PPG by a Duke Player", category: "NBA" },
 ];

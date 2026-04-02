@@ -1,0 +1,22 @@
+[
+  { "hint": "2019-20", "answer": "Zion Williamson", "image": "nba_pelicans.png" },
+  { "hint": "2011-12", "answer": "Kyrie Irving", "image": "nba_cavaliers.png" },
+  { "hint": "2017-18", "answer": "Jayson Tatum", "image": "nba_celtics.png" },
+  { "hint": "2022-23", "answer": "Paolo Banchero", "image": "nba_magic.png" },
+  { "hint": "2025-26", "answer": "Cooper Flagg", "image": "nba_mavericks.png" },
+  { "hint": "2016-17", "answer": "Brandon Ingram", "image": "nba_lakers.png" },
+  { "hint": "2019-20", "answer": "RJ Barrett", "image": "nba_knicks.png" },
+  { "hint": "2025-26", "answer": "Kon Knueppel", "image": "nba_hornets.png" },
+  { "hint": "1994-95", "answer": "Grant Hill", "image": "nba_pistons.png" },
+  { "hint": "2002-03", "answer": "Carlos Boozer", "image": "nba_cavaliers.png" },
+  { "hint": "1964-65", "answer": "Jeff Mullins", "image": "nba_warriors.png" },
+  { "hint": "1999-00", "answer": "Corey Maggette", "image": "nba_magic.png" },
+  { "hint": "1999-00", "answer": "Elton Brand", "image": "nba_bulls.png" },
+  { "hint": "2004-05", "answer": "Luol Deng", "image": "nba_bulls.png" },
+  { "hint": "1966-67", "answer": "Jack Marin", "image": "nba_bullets.png" },
+  { "hint": "2021-22", "answer": "Jalen Johnson", "image": "nba_hawks.png" },
+  { "hint": "2014-15", "answer": "Jabari Parker", "image": "nba_bucks.png" },
+  { "hint": "2018-19", "answer": "Gary Trent Jr.", "image": "nba_blazers.png" },
+  { "hint": "1992-93", "answer": "Christian Laettner", "image": "nba_timberwolves.png" },
+  { "hint": "2006-07", "answer": "JJ Redick", "image": "nba_magic.png" }
+]
