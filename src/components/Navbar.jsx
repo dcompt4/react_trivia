@@ -16,8 +16,8 @@ export default function Navbar({ title, isAnswerBoard, setId }) {
     colors.reduce((acc, color) => ({ ...acc, [color]: 0 }), {})
   );
 
-  // Check if we are currently in the DND Slideshow
-  const isDndGame = location.pathname.includes('/dnd-game/');
+  // Check if we are currently in a slideshow game (DND or Word Scramble)
+  const isSlideshowGame = location.pathname.includes('/dnd-game/') || location.pathname.includes('/word-scramble-game/');
 
   const handleColorClick = (color) => {
     const newColor = selected === color ? null : color;
@@ -96,7 +96,7 @@ export default function Navbar({ title, isAnswerBoard, setId }) {
         strokeWidth={2.5}
       />
 
-{!isDndGame && (
+{!isSlideshowGame && (
   <button
     onClick={handleToggleImages}
     style={{ background: 'none', border: 'none', cursor: 'pointer', display: 'flex', alignItems: 'center' }}
@@ -141,7 +141,7 @@ export default function Navbar({ title, isAnswerBoard, setId }) {
     <div key={color} style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', gap: '5px' }}>
       
       {/* Score Controls (Manual overrides) */}
-      {isDndGame && (
+      {isSlideshowGame && (
         <div style={{ display: 'flex', alignItems: 'center', gap: '5px', marginBottom: '2px' }}>
           <Minus 
             size={18} 

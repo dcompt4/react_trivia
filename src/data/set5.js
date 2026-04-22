@@ -12,4 +12,7 @@ export const set5 = [
   { number: 8, id: "nba_undraftedactiveppg", title: "NBA Most PPG by an Undrafted Active Player", category: "NBA" },
   { number: 9, id: "nba_dukeppg", title: "NBA Most PPG by a Duke Player since 2000", category: "NBA" },
   { number: 10, id: "nba_lsuppg", title: "NBA Most PPG by a LSU Player since 2000", category: "NBA" },
+
+  { number: 11, id: "nba_bestsecondroundersbyws", title: "NBA Best Active Second Rounders according to WS", category: "NBA" },
+  { number: 12, id: "nba_secondoverallpicks", title: "NBA Second Overall Picks", category: "NBA" },
 ];

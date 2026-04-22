@@ -7,6 +7,7 @@ import { set2 } from '../data/set2';
 import { set3 } from '../data/set3'; 
 import { set4 } from '../data/set4'; 
 import { set5 } from '../data/set5'; 
+import { set6 } from '../data/set6'; 
 
 export default function Home() {
   const [password, setPassword] = useState('');
@@ -24,7 +25,8 @@ export default function Home() {
     "Set 2": set2,
     "Set 4": set4,
     "Set 5": set5,
-    "Dudes Naming Dudes": set3 
+    "Dudes Naming Dudes": set3,
+    "Word Scramble": set6
   };
 
   return (
@@ -68,6 +70,8 @@ export default function Home() {
                     // CONDITIONAL ROUTING LOGIC
                     if (setName === "Dudes Naming Dudes") {
                       navigate(`/dnd-answers/${item.id}`, { state: { title: item.title } });
+                    } else if (setName === "Word Scramble") {
+                      navigate(`/word-scramble-answers/${item.id}`, { state: { title: item.title } });
                     } else {
                       navigate(`/answers/${item.id}`, { state: { title: item.title } });
                     }

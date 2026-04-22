@@ -1,0 +1,22 @@
+[
+  { "hint": "2025", "answer": "Dylan Harper", "image": "nba_spurs.png" },
+  { "hint": "2024", "answer": "Alex Sarr", "image": "nba_wizards.png" },
+  { "hint": "2023", "answer": "Brandon Miller", "image": "nba_hornets.png" },
+  { "hint": "2022", "answer": "Chet Holmgren", "image": "nba_thunder.png" },
+  { "hint": "2021", "answer": "Jalen Green", "image": "nba_rockets.png" },
+  { "hint": "2020", "answer": "James Wiseman", "image": "nba_warriors.png" },
+  { "hint": "2019", "answer": "Ja Morant", "image": "nba_grizzlies.png" },
+  { "hint": "2018", "answer": "Marvin Bagley III", "image": "nba_kings.png" },
+  { "hint": "2017", "answer": "Lonzo Ball", "image": "nba_lakers.png" },
+  { "hint": "2016", "answer": "Brandon Ingram", "image": "nba_lakers.png" },
+  { "hint": "2015", "answer": "D'Angelo Russell", "image": "nba_lakers.png" },
+  { "hint": "2014", "answer": "Jabari Parker", "image": "nba_bucks.png" },
+  { "hint": "2013", "answer": "Victor Oladipo", "image": "nba_magic.png" },
+  { "hint": "2012", "answer": "Michael Kidd-Gilchrist", "image": "nba_bobcats.png" },
+  { "hint": "2011", "answer": "Derrick Williams", "image": "nba_timberwolves.png" },
+  { "hint": "2010", "answer": "Evan Turner", "image": "nba_76ers.png" },
+  { "hint": "2009", "answer": "Hasheem Thabeet", "image": "nba_grizzlies.png" },
+  { "hint": "2008", "answer": "Michael Beasley", "image": "nba_heat.png" },
+  { "hint": "2007", "answer": "Kevin Durant", "image": "nba_supersonics.png" },
+  { "hint": "2006", "answer": "LaMarcus Aldridge", "image": "nba_bulls.png" }
+]
