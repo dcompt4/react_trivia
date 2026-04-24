@@ -1,0 +1,21 @@
+[
+  { "hint": "0 Years Exp", "answer": "Kellen Moore", "image": "nfl_saints.png" },
+  { "hint": "8 Years Exp", "answer": "Todd Bowles", "image": "nfl_buccaneers.png" },
+  { "hint": "5 Years Exp", "answer": "Raheem Morris", "image": "nfl_falcons.png" },
+  { "hint": "1 Year Exp", "answer": "Dave Canales", "image": "nfl_panthers.png" },
+
+  { "hint": "5 Years Exp", "answer": "Dan Campbell", "image": "nfl_lions.png" },
+  { "hint": "6 Years Exp", "answer": "Matt LaFleur", "image": "nfl_packers.png" },
+  { "hint": "3 Years Exp", "answer": "Kevin O'Connell", "image": "nfl_vikings.png" },
+  { "hint": "0 Years Exp", "answer": "Ben Johnson", "image": "nfl_bears.png" },
+
+  { "hint": "4 Years Exp", "answer": "Nick Sirianni", "image": "nfl_eagles.png" },
+  { "hint": "7 Years Exp", "answer": "Dan Quinn", "image": "nfl_commanders.png" },
+  { "hint": "0 Years Exp", "answer": "Mike Kafka", "image": "nfl_giants.png" },
+  { "hint": "0 Years Exp", "answer": "Brian Schottenheimer", "image": "nfl_cowboys.png" },
+
+  { "hint": "8 Years Exp", "answer": "Kyle Shanahan", "image": "nfl_49ers.png" },
+  { "hint": "8 Years Exp", "answer": "Sean McVay", "image": "nfl_rams.png" },
+  { "hint": "1 Year Exp", "answer": "Mike Macdonald", "image": "nfl_seahawks.png" },
+  { "hint": "2 Years Exp", "answer": "Jonathan Gannon", "image": "nfl_cardinals.png" }
+]

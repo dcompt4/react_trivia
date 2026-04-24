@@ -1,0 +1,22 @@
+[
+  { "hint": "2024-25", "answer": "Stephon Castle", "image": "nba_spurs.png" },
+  { "hint": "2023-24", "answer": "Victor Wembanyama", "image": "nba_spurs.png" },
+  { "hint": "2022-23", "answer": "Paolo Banchero", "image": "nba_magic.png" },
+  { "hint": "2021-22", "answer": "Scottie Barnes", "image": "nba_raptors.png" },
+  { "hint": "2020-21", "answer": "LaMelo Ball", "image": "nba_hornets.png" },
+  { "hint": "2019-20", "answer": "Ja Morant", "image": "nba_grizzlies.png" },
+  { "hint": "2018-19", "answer": "Luka Dončić", "image": "nba_mavericks.png" },
+  { "hint": "2017-18", "answer": "Ben Simmons", "image": "nba_76ers.png" },
+  { "hint": "2016-17", "answer": "Malcolm Brogdon", "image": "nba_bucks.png" },
+  { "hint": "2015-16", "answer": "Karl-Anthony Towns", "image": "nba_timberwolves.png" },
+  { "hint": "2014-15", "answer": "Andrew Wiggins", "image": "nba_timberwolves.png" },
+  { "hint": "2013-14", "answer": "Michael Carter-Williams", "image": "nba_76ers.png" },
+  { "hint": "2012-13", "answer": "Damian Lillard", "image": "nba_trailblazers.png" },
+  { "hint": "2011-12", "answer": "Kyrie Irving", "image": "nba_cavaliers.png" },
+  { "hint": "2010-11", "answer": "Blake Griffin", "image": "nba_clippers.png" },
+  { "hint": "2009-10", "answer": "Tyreke Evans", "image": "nba_kings.png" },
+  { "hint": "2008-09", "answer": "Derrick Rose", "image": "nba_bulls.png" },
+  { "hint": "2007-08", "answer": "Kevin Durant", "image": "nba_supersonics.png" },
+  { "hint": "2006-07", "answer": "Brandon Roy", "image": "nba_trailblazers.png" },
+  { "hint": "2005-06", "answer": "Chris Paul", "image": "nba_hornets.png" }
+]

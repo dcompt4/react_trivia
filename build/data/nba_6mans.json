@@ -1,0 +1,22 @@
+[
+  { "hint": "2025", "answer": "Payton Pritchard", "image": "nba_celtics.png" },
+  { "hint": "2024", "answer": "Naz Reid", "image": "nba_timberwolves.png" },
+  { "hint": "2023", "answer": "Malcolm Brogdon", "image": "nba_celtics.png" },
+  { "hint": "2022", "answer": "Tyler Herro", "image": "nba_heat.png" },
+  { "hint": "2021", "answer": "Jordan Clarkson", "image": "nba_jazz.png" },
+  { "hint": "2020", "answer": "Montrezl Harrell", "image": "nba_clippers.png" },
+  { "hint": "2019", "answer": "Lou Williams", "image": "nba_clippers.png" },
+  { "hint": "2018", "answer": "Lou Williams", "image": "nba_clippers.png" },
+  { "hint": "2017", "answer": "Eric Gordon", "image": "nba_rockets.png" },
+  { "hint": "2016", "answer": "Jamal Crawford", "image": "nba_clippers.png" },
+  { "hint": "2015", "answer": "Lou Williams", "image": "nba_raptors.png" },
+  { "hint": "2014", "answer": "Jamal Crawford", "image": "nba_clippers.png" },
+  { "hint": "2013", "answer": "JR Smith", "image": "nba_knicks.png" },
+  { "hint": "2012", "answer": "James Harden", "image": "nba_thunder.png" },
+  { "hint": "2011", "answer": "Lamar Odom", "image": "nba_lakers.png" },
+  { "hint": "2010", "answer": "Jamal Crawford", "image": "nba_hawks.png" },
+  { "hint": "2009", "answer": "Jason Terry", "image": "nba_mavericks.png" },
+  { "hint": "2008", "answer": "Manu Ginobili", "image": "nba_spurs.png" },
+  { "hint": "2007", "answer": "Leandro Barbosa", "image": "nba_suns.png" },
+  { "hint": "2006", "answer": "Mike Miller", "image": "nba_grizzlies.png" }
+]

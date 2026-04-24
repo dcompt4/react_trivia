@@ -1,0 +1,22 @@
+[
+  { "hint": "1.46 Billion", "answer": "India", "image": "flag_india.png" },
+  { "hint": "1.41 Billion", "answer": "China", "image": "flag_china.png" },
+  { "hint": "347.2 Million", "answer": "United States", "image": "flag_united_states.png" },
+  { "hint": "285.7 Million", "answer": "Indonesia", "image": "flag_indonesia.png" },
+  { "hint": "255.2 Million", "answer": "Pakistan", "image": "flag_pakistan.png" },
+  { "hint": "237.5 Million", "answer": "Nigeria", "image": "flag_nigeria.png" },
+  { "hint": "212.8 Million", "answer": "Brazil", "image": "flag_brazil.png" },
+  { "hint": "175.6 Million", "answer": "Bangladesh", "image": "flag_bangladesh.png" },
+  { "hint": "143.9 Million", "answer": "Russia", "image": "flag_russia.png" },
+  { "hint": "135.4 Million", "answer": "Ethiopia", "image": "flag_ethiopia.png" },
+  { "hint": "131.9 Million", "answer": "Mexico", "image": "flag_mexico.png" },
+  { "hint": "123.1 Million", "answer": "Japan", "image": "flag_japan.png" },
+  { "hint": "118.3 Million", "answer": "Egypt", "image": "flag_egypt.png" },
+  { "hint": "116.7 Million", "answer": "Philippines", "image": "flag_philippines.png" },
+  { "hint": "112.8 Million", "answer": "DR Congo", "image": "flag_dr_congo.png" },
+  { "hint": "101.5 Million", "answer": "Vietnam", "image": "flag_vietnam.png" },
+  { "hint": "92.4 Million", "answer": "Iran", "image": "flag_iran.png" },
+  { "hint": "87.6 Million", "answer": "Turkey", "image": "flag_turkey.png" },
+  { "hint": "84.0 Million", "answer": "Germany", "image": "flag_germany.png" },
+  { "hint": "71.6 Million", "answer": "Thailand", "image": "flag_thailand.png" }
+]

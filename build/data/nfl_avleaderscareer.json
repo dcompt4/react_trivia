@@ -1,0 +1,23 @@
+[
+  { "hint": "2022", "answer": "Tom Brady", "image": "nfl_patriots.png" },
+  { "hint": "2020", "answer": "Drew Brees", "image": "nfl_saints.png" },
+  { "hint": "2015", "answer": "Peyton Manning", "image": "nfl_colts.png" },
+  { "hint": "2010", "answer": "Brett Favre", "image": "nfl_packers.png" },
+  { "hint": "2004", "answer": "Jerry Rice", "image": "nfl_49ers.png" },
+  { "hint": "2024", "answer": "Aaron Rodgers", "image": "nfl_packers.png" },
+  { "hint": "1978", "answer": "Fran Tarkenton", "image": "nfl_vikings.png" },
+  { "hint": "2000", "answer": "Reggie White", "image": "nfl_packers.png" },
+  { "hint": "2003", "answer": "Bruce Smith", "image": "nfl_bills.png" },
+  { "hint": "2012", "answer": "Ray Lewis", "image": "nfl_ravens.png" },
+  { "hint": "2020", "answer": "Philip Rivers", "image": "nfl_chargers.png" },
+  { "hint": "1999", "answer": "Dan Marino", "image": "nfl_dolphins.png" },
+  { "hint": "2001", "answer": "Bruce Matthews", "image": "nfl_oilers.png" },
+  { "hint": "2022", "answer": "Matt Ryan", "image": "nfl_falcons.png" },
+  { "hint": "2021", "answer": "Ben Roethlisberger", "image": "nfl_steelers.png" },
+  { "hint": "1998", "answer": "John Elway", "image": "nfl_broncos.png" },
+  { "hint": "1981", "answer": "Alan Page", "image": "nfl_vikings.png" },
+  { "hint": "2009", "answer": "Junior Seau", "image": "nfl_chargers.png" },
+  { "hint": "2008", "answer": "Derrick Brooks", "image": "nfl_buccaneers.png" },
+  { "hint": "1993", "answer": "Lawrence Taylor", "image": "nfl_giants.png" },
+  { "hint": "2003", "answer": "Rod Woodson", "image": "nfl_steelers.png" }
+]

@@ -1,0 +1,22 @@
+[
+  { "hint": "RF / P", "answer": "Babe Ruth", "image": "mlb_yankees.png" },
+  { "hint": "CF", "answer": "Ken Griffey Jr.", "image": "mlb_mariners.png" },
+  { "hint": "DH / P", "answer": "Shohei Ohtani", "image": "mlb_dodgers.png" },
+  { "hint": "SS", "answer": "Derek Jeter", "image": "mlb_yankees.png" },
+  { "hint": "2B", "answer": "Jackie Robinson", "image": "mlb_dodgers.png" },
+  { "hint": "CF", "answer": "Willie Mays", "image": "mlb_giants.png" },
+  { "hint": "RF", "answer": "Ichiro Suzuki", "image": "mlb_mariners.png" },
+  { "hint": "CF", "answer": "Mickey Mantle", "image": "mlb_yankees.png" },
+  { "hint": "CF", "answer": "Bo Jackson", "image": "mlb_royals.png" },
+  { "hint": "P", "answer": "Nolan Ryan", "image": "mlb_rangers.png" },
+  { "hint": "RF", "answer": "Hank Aaron", "image": "mlb_braves.png" },
+  { "hint": "SS", "answer": "Cal Ripken Jr.", "image": "mlb_orioles.png" },
+  { "hint": "RF", "answer": "Roberto Clemente", "image": "mlb_pirates.png" },
+  { "hint": "DH", "answer": "David Ortiz", "image": "mlb_redsox.png" },
+  { "hint": "RF", "answer": "Aaron Judge", "image": "mlb_yankees.png" },
+  { "hint": "CF", "answer": "Mike Trout", "image": "mlb_angels.png" },
+  { "hint": "LF", "answer": "Rickey Henderson", "image": "mlb_athletics.png" },
+  { "hint": "RF", "answer": "Bryce Harper", "image": "mlb_phillies.png" },
+  { "hint": "LF", "answer": "Ted Williams", "image": "mlb_redsox.png" },
+  { "hint": "RF", "answer": "Reggie Jackson", "image": "mlb_yankees.png" }
+]

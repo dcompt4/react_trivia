@@ -1,0 +1,22 @@
+[
+  { "hint": "2024", "answer": "Joe Burrow", "image": "nfl_bengals.png" },
+  { "hint": "2023", "answer": "Joe Flacco", "image": "nfl_browns.png" },
+  { "hint": "2022", "answer": "Geno Smith", "image": "nfl_seahawks.png" },
+  { "hint": "2021", "answer": "Joe Burrow", "image": "nfl_bengals.png" },
+  { "hint": "2020", "answer": "Alex Smith", "image": "nfl_commanders.png" },
+  { "hint": "2019", "answer": "Ryan Tannehill", "image": "nfl_titans.png" },
+  { "hint": "2018", "answer": "Andrew Luck", "image": "nfl_colts.png" },
+  { "hint": "2017", "answer": "Keenan Allen", "image": "nfl_chargers.png" },
+  { "hint": "2016", "answer": "Jordy Nelson", "image": "nfl_packers.png" },
+  { "hint": "2015", "answer": "Eric Berry", "image": "nfl_chiefs.png" },
+  { "hint": "2014", "answer": "Rob Gronkowski", "image": "nfl_patriots.png" },
+  { "hint": "2013", "answer": "Philip Rivers", "image": "nfl_chargers.png" },
+  { "hint": "2012", "answer": "Peyton Manning", "image": "nfl_broncos.png" },
+  { "hint": "2011", "answer": "Matthew Stafford", "image": "nfl_lions.png" },
+  { "hint": "2010", "answer": "Michael Vick", "image": "nfl_eagles.png" },
+  { "hint": "2009", "answer": "Tom Brady", "image": "nfl_patriots.png" },
+  { "hint": "2008", "answer": "Chad Pennington", "image": "nfl_dolphins.png" },
+  { "hint": "2007", "answer": "Greg Ellis", "image": "nfl_cowboys.png" },
+  { "hint": "2006", "answer": "Chad Pennington", "image": "nfl_jets.png" },
+  { "hint": "2005", "answer": "Steve Smith Sr.", "image": "nfl_panthers.png" }
+]

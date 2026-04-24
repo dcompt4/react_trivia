@@ -1,0 +1,20 @@
+[
+  { "hint": "9/14/2025", "answer": "Jake Browning", "image": "nfl_bengals.png" },
+  { "hint": "1/5/2025", "answer": "Joe Milton", "image": "nfl_patriots.png" },
+  { "hint": "12/15/2024", "answer": "Mason Rudolph", "image": "nfl_titans.png" },
+  { "hint": "12/1/2024", "answer": "Mac Jones", "image": "nfl_jaguars.png" },
+  { "hint": "10/20/2024", "answer": "Marcus Mariota", "image": "nfl_commanders.png" },
+  { "hint": "12/12/2022", "answer": "Colt McCoy", "image": "nfl_cardinals.png" },
+  { "hint": "12/11/2022", "answer": "Mitchell Trubisky", "image": "nfl_steelers.png" },
+  { "hint": "12/8/2022", "answer": "Baker Mayfield", "image": "nfl_rams.png" },
+  { "hint": "12/4/2022", "answer": "Brock Purdy", "image": "nfl_49ers.png" },
+  { "hint": "10/16/2022", "answer": "Teddy Bridgewater", "image": "nfl_dolphins.png" },
+  { "hint": "12/12/2021", "answer": "Tyler Huntley", "image": "nfl_ravens.png" },
+  { "hint": "11/21/2021", "answer": "Andy Dalton", "image": "nfl_bears.png" },
+  { "hint": "11/4/2021", "answer": "Josh Johnson", "image": "nfl_jets.png" },
+  { "hint": "10/24/2021", "answer": "Mike White", "image": "nfl_jets.png" },
+  { "hint": "12/17/2020", "answer": "Marcus Mariota", "image": "nfl_raiders.png" },
+  { "hint": "11/8/2020", "answer": "Alex Smith", "image": "nfl_commanders.png" },
+  { "hint": "11/1/2020", "answer": "Nick Mullens", "image": "nfl_49ers.png" },
+  { "hint": "9/20/2020", "answer": "Jeff Driskel", "image": "nfl_broncos.png" }
+]
