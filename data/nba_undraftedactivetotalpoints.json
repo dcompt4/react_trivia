@@ -1,0 +1,22 @@
+[
+  { "hint": "2016-17", "answer": "Fred VanVleet", "image": "nba_raptors.png" },
+  { "hint": "2015-16", "answer": "T.J. McConnell", "image": "nba_76ers.png" },
+  { "hint": "2014-15", "answer": "Joe Ingles", "image": "nba_jazz.png" },
+  { "hint": "2019-20", "answer": "Naz Reid", "image": "nba_timberwolves.png" },
+  { "hint": "2018-19", "answer": "Duncan Robinson", "image": "nba_heat.png" },
+  { "hint": "2013-14", "answer": "Seth Curry", "image": "nba_grizzlies.png" },
+  { "hint": "2021-22", "answer": "Austin Reaves", "image": "nba_lakers.png" },
+  { "hint": "2016-17", "answer": "Dorian Finney-Smith", "image": "nba_mavericks.png" },
+  { "hint": "2017-18", "answer": "Royce O'Neale", "image": "nba_jazz.png" },
+  { "hint": "2019-20", "answer": "Luguentz Dort", "image": "nba_thunder.png" },
+  { "hint": "2009-10", "answer": "Garrett Temple", "image": "nba_rockets.png" },
+  { "hint": "2016-17", "answer": "Derrick Jones Jr.", "image": "nba_suns.png" },
+  { "hint": "2020-21", "answer": "Naji Marshall", "image": "nba_pelicans.png" },
+  { "hint": "2017-18", "answer": "Chris Boucher", "image": "nba_warriors.png" },
+  { "hint": "2017-18", "answer": "Alex Caruso", "image": "nba_lakers.png" },
+  { "hint": "2017-18", "answer": "Daniel Theis", "image": "nba_celtics.png" },
+  { "hint": "2017-18", "answer": "Maxi Kleber", "image": "nba_mavericks.png" },
+  { "hint": "2019-20", "answer": "Caleb Martin", "image": "nba_hornets.png" },
+  { "hint": "2018-19", "answer": "Kenrich Williams", "image": "nba_pelicans.png" },
+  { "hint": "2021-22", "answer": "Sam Hauser", "image": "nba_celtics.png" }
+]

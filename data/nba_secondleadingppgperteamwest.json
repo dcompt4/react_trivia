@@ -1,0 +1,17 @@
+[
+  { "hint": "20.4", "answer": "Anthony Davis", "image": "nba_mavericks.png" },
+  { "hint": "25.4", "answer": "Jamal Murray", "image": "nba_nuggets.png" },
+  { "hint": "20.0", "answer": "Jimmy Butler", "image": "nba_warriors.png" },
+  { "hint": "20.4", "answer": "Alperen Şengün", "image": "nba_rockets.png" },
+  { "hint": "25.4", "answer": "James Harden", "image": "nba_clippers.png" },
+  { "hint": "23.3", "answer": "Austin Reaves", "image": "nba_lakers.png" },
+  { "hint": "19.5", "answer": "Ja Morant", "image": "nba_grizzlies.png" },
+  { "hint": "21.1", "answer": "Julius Randle", "image": "nba_timberwolves.png" },
+  { "hint": "21.0", "answer": "Zion Williamson", "image": "nba_pelicans.png" },
+  { "hint": "17.1", "answer": "Chet Holmgren", "image": "nba_thunder.png" },
+  { "hint": "20.2", "answer": "Dillon Brooks", "image": "nba_suns.png" },
+  { "hint": "20.8", "answer": "Shaedon Sharpe", "image": "nba_trailblazers.png" },
+  { "hint": "18.4", "answer": "DeMar DeRozan", "image": "nba_kings.png" },
+  { "hint": "18.6", "answer": "De'Aaron Fox", "image": "nba_spurs.png" },
+  { "hint": "23.6", "answer": "Keyonte George", "image": "nba_jazz.png" }
+]
