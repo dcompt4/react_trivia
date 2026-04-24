@@ -8,5 +8,5 @@ export const set3 = [
 
 
   { number: 6, id: "dnd_rostersnba1", title: "NBA Rosters 1", category: "Dudes" },
-  { number: 6, id: "dnd_rostersnfl1", title: "NFL Rosters 2", category: "Dudes" },
+  { number: 6, id: "dnd_rostersnfl2", title: "NFL Rosters 2", category: "Dudes" },
 ];
