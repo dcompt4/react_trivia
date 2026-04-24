@@ -1,0 +1,25 @@
+[
+  { "id": 0, "name": "", "image": "" },
+  { "id": 1, "name": "Terrace Marshall Jr.", "image": "/images/dnd/rosters2/1.png" },
+  { "id": 2, "name": "Michael Pittman Jr.", "image": "/images/dnd/rosters2/2.png" },
+  { "id": 3, "name": "Brady Cook", "image": "/images/dnd/rosters2/3.png" },
+  { "id": 4, "name": "DJ Moore", "image": "/images/dnd/rosters2/4.png" },
+  { "id": 5, "name": "Andrei Iosivas", "image": "/images/dnd/rosters2/5.png" },
+  { "id": 6, "name": "David Montgomery", "image": "/images/dnd/rosters2/6.png" },
+  { "id": 7, "name": "Trey Lance", "image": "/images/dnd/rosters2/7.png" },
+  { "id": 8, "name": "Deuce Vaughn", "image": "/images/dnd/rosters2/8.png" },
+  { "id": 9, "name": "Kirk Cousins", "image": "/images/dnd/rosters2/9.png" },
+  { "id": 10, "name": "Jack Bech", "image": "/images/dnd/rosters2/10.png" },
+  { "id": 11, "name": "Laquon Treadwell", "image": "/images/dnd/rosters2/11.png" },
+  { "id": 12, "name": "Bhayshul Tuten", "image": "/images/dnd/rosters2/12.png" },
+  { "id": 13, "name": "Sam Howell", "image": "/images/dnd/rosters2/13.png" },
+  { "id": 14, "name": "Elijah Moore", "image": "/images/dnd/rosters2/14.png" },
+  { "id": 15, "name": "Calvin Austin III", "image": "/images/dnd/rosters2/15.png" },
+  { "id": 16, "name": "Sky Moore", "image": "/images/dnd/rosters2/16.png" },
+  { "id": 17, "name": "Bub Means", "image": "/images/dnd/rosters2/17.png" },
+  { "id": 18, "name": "Trevor Etienne", "image": "/images/dnd/rosters2/18.png" },
+  { "id": 19, "name": "Ronnie Rivers", "image": "/images/dnd/rosters2/19.png" },
+  { "id": 20, "name": "Jake Bobo", "image": "/images/dnd/rosters2/20.png" },
+  { "id": 21, "name": "Jacory Croskey-Merritt", "image": "/images/dnd/rosters2/21.png" }
+
+]
