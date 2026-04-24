@@ -1,0 +1,22 @@
+[
+  { "hint": "2014", "answer": "Nikola Jokić", "image": "nba_nuggets.png" },
+  { "hint": "2008", "answer": "DeAndre Jordan", "image": "nba_clippers.png" },
+  { "hint": "2012", "answer": "Draymond Green", "image": "nba_warriors.png" },
+  { "hint": "2012", "answer": "Khris Middleton", "image": "nba_pistons.png" },
+  { "hint": "2016", "answer": "Ivica Zubac", "image": "nba_lakers.png" },
+  { "hint": "2018", "answer": "Jalen Brunson", "image": "nba_mavericks.png" },
+  { "hint": "2014", "answer": "Dwight Powell", "image": "nba_hornets.png" },
+  { "hint": "2018", "answer": "Mitchell Robinson", "image": "nba_knicks.png" },
+  { "hint": "2014", "answer": "Jerami Grant", "image": "nba_76ers.png" },
+  { "hint": "2015", "answer": "Norman Powell", "image": "nba_bucks.png" },
+  { "hint": "2014", "answer": "Spencer Dinwiddie", "image": "nba_pistons.png" },
+  { "hint": "2019", "answer": "Daniel Gafford", "image": "nba_bulls.png" },
+  { "hint": "2017", "answer": "Isaiah Hartenstein", "image": "nba_rockets.png" },
+  { "hint": "2019", "answer": "Nic Claxton", "image": "nba_nets.png" },
+  { "hint": "2015", "answer": "Richaun Holmes", "image": "nba_76ers.png" },
+  { "hint": "2014", "answer": "Jordan Clarkson", "image": "nba_wizards.png" },
+  { "hint": "2015", "answer": "Pat Connaughton", "image": "nba_nets.png" },
+  { "hint": "2017", "answer": "Monte Morris", "image": "nba_nuggets.png" },
+  { "hint": "2019", "answer": "Terance Mann", "image": "nba_clippers.png" },
+  { "hint": "2018", "answer": "Bruce Brown", "image": "nba_pistons.png" }
+]

@@ -5,4 +5,7 @@ export const set3 = [
   { number: 3, id: "dnd_saints", title: "Saints Dudes", category: "Dudes" },
   { number: 4, id: "dnd_big", title: "Big Dudes", category: "Dudes" },
   { number: 5, id: "dnd_large", title: "Large Dudes", category: "Dudes" },
+
+
+  { number: 6, id: "dnd_rosters1", title: "NBA Rosters", category: "Dudes" },
 ];

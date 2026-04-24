@@ -18,4 +18,9 @@ export const set5 = [
 
   { number: 13, id: "gen_mostfollowersinstagrams", title: "Most Followers on Instagram", category: "General" },
   { number: 14, id: "gen_1913to2025presidents", title: "Presidents from 1913 to 2025", category: "General" },
+  { number: 15, id: "gen_tvshowsmostratings", title: "Most Rated (Not Highest) TV Shows", category: "General" },
+  { number: 16, id: "gen_moviesmostratings", title: "Most Rated (Not Highest) Movies", category: "General" },
+  { number: 17, id: "gen_grammyroty", title: "Grammy Record of the Year Winners", category: "General" },
+  { number: 18, id: "nba_secondleadingppgperteameast", title: "NBA Second Leading PPG Per Team East", category: "NBA" },
+  { number: 19, id: "nba_secondleadingppgperteamwest", title: "NBA Second Leading PPG Per Team West", category: "NBA" },
 ];
