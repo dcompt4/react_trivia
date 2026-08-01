@@ -1,0 +1,21 @@
+[
+  { "hint": "2018", "answer": "Kyle Allen", "image": "nfl_bills.png" },
+  { "hint": "2025", "answer": "Quinn Ewers", "image": "nfl_dolphins.png" },
+  { "hint": "UDFA 2023", "answer": "Tommy DeVito", "image": "nfl_patriots.png" },
+  { "hint": "2026", "answer": "Cade Klubnik", "image": "nfl_jets.png" },
+
+  { "hint": "2019", "answer": "Jarrett Stidham", "image": "nfl_broncos.png" },
+  { "hint": "2021", "answer": "Justin Fields", "image": "nfl_chiefs.png" },
+  { "hint": "2026", "answer": "Fernando Mendoza", "image": "nfl_raiders.png" },
+  { "hint": "2021", "answer": "Trey Lance", "image": "nfl_chargers.png" },
+
+  { "hint": "UDFA 2020", "answer": "Tyler Huntley", "image": "nfl_ravens.png" },
+  { "hint": "2008", "answer": "Joe Flacco", "image": "nfl_bengals.png" },
+  { "hint": "2025", "answer": "Shedeur Sanders", "image": "nfl_browns.png" },
+  { "hint": "2018", "answer": "Mason Rudolph", "image": "nfl_steelers.png" },
+
+  { "hint": "2021", "answer": "Davis Mills", "image": "nfl_texans.png" },
+  { "hint": "2023", "answer": "Anthony Richardson Sr.", "image": "nfl_colts.png" },
+  { "hint": "UDFA 2017", "answer": "Nick Mullens", "image": "nfl_jaguars.png" },
+  { "hint": "2017", "answer": "Mitchell Trubisky", "image": "nfl_titans.png" }
+]

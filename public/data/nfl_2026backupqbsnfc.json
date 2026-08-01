@@ -1,0 +1,21 @@
+[
+  { "hint": "2024", "answer": "Joe Milton III", "image": "nfl_cowboys.png" },
+  { "hint": "2015", "answer": "Jameis Winston", "image": "nfl_giants.png" },
+  { "hint": "2011", "answer": "Andy Dalton", "image": "nfl_eagles.png" },
+  { "hint": "2015", "answer": "Marcus Mariota", "image": "nfl_commanders.png" },
+
+  { "hint": "2019", "answer": "Gardner Minshew II", "image": "nfl_cardinals.png" },
+  { "hint": "2026", "answer": "Ty Simpson", "image": "nfl_rams.png" },
+  { "hint": "2021", "answer": "Mac Jones", "image": "nfl_49ers.png" },
+  { "hint": "2019", "answer": "Drew Lock", "image": "nfl_seahawks.png" },
+
+  { "hint": "UDFA 2023", "answer": "Tyson Bagent", "image": "nfl_bears.png" },
+  { "hint": "2014", "answer": "Teddy Bridgewater", "image": "nfl_lions.png" },
+  { "hint": "2011", "answer": "Tyrod Taylor", "image": "nfl_packers.png" },
+  { "hint": "2024", "answer": "J.J. McCarthy", "image": "nfl_vikings.png" },
+
+  { "hint": "2024", "answer": "Michael Penix Jr.", "image": "nfl_falcons.png" },
+  { "hint": "2022", "answer": "Kenny Pickett", "image": "nfl_panthers.png" },
+  { "hint": "2024", "answer": "Spencer Rattler", "image": "nfl_saints.png" },
+  { "hint": "UDFA 2019", "answer": "Jake Browning", "image": "nfl_buccaneers.png" }
+]
