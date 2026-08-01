@@ -1,0 +1,22 @@
+[
+  { "hint": "$62.59M", "answer": "Stephen Curry", "image": "nba_warriors.png" },
+  { "hint": "$59.03M", "answer": "Nikola Jokić", "image": "nba_nuggets.png" },
+  { "hint": "$58.46M", "answer": "Jayson Tatum", "image": "nba_celtics.png" },
+  { "hint": "$58.46M", "answer": "Anthony Davis", "image": "nba_wizards.png" },
+  { "hint": "$58.46M", "answer": "Giannis Antetokounmpo", "image": "nba_heat.png" },
+  { "hint": "$58.10M", "answer": "Joel Embiid", "image": "nba_76ers.png" },
+  { "hint": "$57.08M", "answer": "Jaylen Brown", "image": "nba_76ers.png" },
+  { "hint": "$57.08M", "answer": "Devin Booker", "image": "nba_suns.png" },
+  { "hint": "$57.08M", "answer": "Karl-Anthony Towns", "image": "nba_knicks.png" },
+  { "hint": "$56.83M", "answer": "Jimmy Butler", "image": "nba_warriors.png" },
+  { "hint": "$54.13M", "answer": "Paul George", "image": "nba_celtics.png" },
+  { "hint": "$50.30M", "answer": "Kawhi Leonard", "image": "nba_clippers.png" },
+  { "hint": "$50.11M", "answer": "Donovan Mitchell", "image": "nba_cavaliers.png" },
+  { "hint": "$50.11M", "answer": "Cade Cunningham", "image": "nba_pistons.png" },
+  { "hint": "$50.11M", "answer": "Evan Mobley", "image": "nba_cavaliers.png" },
+  { "hint": "$50.11M", "answer": "Jamal Murray", "image": "nba_nuggets.png" },
+  { "hint": "$49.80M", "answer": "De'Aaron Fox", "image": "nba_spurs.png" },
+  { "hint": "$49.80M", "answer": "Bam Adebayo", "image": "nba_heat.png" },
+  { "hint": "$49.80M", "answer": "Luka Dončić", "image": "nba_lakers.png" },
+  { "hint": "$49.49M", "answer": "Trae Young", "image": "nba_wizards.png" }
+]
